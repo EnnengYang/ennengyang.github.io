@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm currently a third-year Ph.D. student in Software College, Northeastern University, China, advised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). My research interests lie in machine learning and  recommender system.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
+- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning
+- **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR prediction, discrete recommendation
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Our paper about sequential recommendation is accepted to ICCV 2023.
+- **[Sep. 2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
+- **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023.
 
 {% include_relative _includes/publications.md %}
 
