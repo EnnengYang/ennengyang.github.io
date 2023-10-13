@@ -5,6 +5,6 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2211.15055.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/EnnengYang/AdaTask
     image: ./assets/img/adatask.png
     notes: Oral Presentation
