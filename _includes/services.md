@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://dl.acm.org/journal/tors"><autocolor>ACM Transactions on Recommender Systems (TORS)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/tors"><autocolor>ACM Transactions on Recommender Systems (TORS) 2022</autocolor></a></li>
 </ul>
