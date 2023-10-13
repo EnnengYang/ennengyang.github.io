@@ -20,3 +20,12 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
+    authors: <strong>Enneng Yang</strong>*, Junwei Pan*, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2211.15055.pdf
+    code: https://github.com/EnnengYang/AdaTask
+    notes: Oral Presentation
+    image: ./assets/img/adatask.png
