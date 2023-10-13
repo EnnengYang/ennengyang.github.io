@@ -28,3 +28,13 @@ main:
     code: https://github.com/EnnengYang/AdaTask
     notes: Oral Presentation
     image: ./assets/img/adatask_aaai2023.png
+
+
+  - title: "Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation"
+    authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2212.08262.pdf
+    code: https://github.com/EnnengYang/TiCoSeRec
+    notes: Oral Presentation
+    image: ./assets/img/ti_coserec_aaai2023.png
