@@ -13,6 +13,13 @@ I'm currently a third-year Ph.D. student in Software College, Northeastern Unive
 - **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR prediction, discrete recommendation
 
 
+<!-- ## Education
+
+- **03/2024 - 03/2025:** Visiting Ph.D. Student in [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore.
+- **09/2021 - 07/2025:** Ph.D. Student in [Northeastern University](https://www.neu.edu.cn/), China.
+- **09/2018 - 07/2021:** M.S. Student in [Northeastern University](https://www.neu.edu.cn/), China. -->
+
+
 ## News
 
 - **[Oct. 2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
