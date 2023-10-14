@@ -18,7 +18,6 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf
     code: https://github.com/EnnengYang/DFGP
     image: ./assets/img/dfgp_iccv2023.png
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wEDRMYTxpr4J:scholar.google.com/&output=citation&scisdr=ClGdYSo4EJjliYwBUj8:AFWwaeYAAAAAZSoHSj-R1WiQKeGncWcw7Pz79Bs&scisig=AFWwaeYAAAAAZSoHSsSGcPd3iAW9mOBVU4TLjv4&scisf=4&ct=citation&cd=-1&hl=en
 
 
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
@@ -29,8 +28,7 @@ main:
     code: https://github.com/EnnengYang/AdaTask
     notes: Oral Presentation
     image: ./assets/img/adatask_aaai2023.png
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:KJtilZa68MkJ:scholar.google.com/&output=citation&scisdr=ClGdYSo4EJjliYwBbnY:AFWwaeYAAAAAZSoHdnYGlEVYOrxHKfuZ8QjXIYU&scisig=AFWwaeYAAAAAZSoHdhxrDM4x_8Ub6Jt3Ql9F4zU&scisf=4&ct=citation&cd=-1&hl=en
-
+    bibtex: https://dblp.org/rec/conf/aaai/YangPWYSCXJG23.html?view=bibtex
 
   - title: "Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
@@ -40,4 +38,14 @@ main:
     code: https://github.com/EnnengYang/TiCoSeRec
     notes: Oral Presentation
     image: ./assets/img/ti_coserec_aaai2023.png
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5E5lKI-Fx88J:scholar.google.com/&output=citation&scisdr=ClGdYSo4EJjliYwBlbQ:AFWwaeYAAAAAZSoHjbTM0bGWm2ns4c87EmxLNyA&scisig=AFWwaeYAAAAAZSoHjaDgdk84e37Fstsl5btoHfU&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
+
+  - title: "Discrete Trust-aware Matrix Factorization for Fast Recommendation"
+    authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
+    conference_short: IJCAI
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019.
+    pdf: https://www.ijcai.org/proceedings/2019/0191.pdf
+    code: https://github.com/EnnengYang/DTMF
+    notes: Oral Presentation
+    image: ./assets/img/dtmf_ijcai2019.png
+    bibtex: https://dblp.org/rec/conf/ijcai/GuoYSYH19.html?view=bibtex
