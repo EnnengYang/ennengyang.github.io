@@ -20,11 +20,11 @@ I'm currently a third-year Ph.D. student in Software College, Northeastern Unive
 - **09/2018 - 07/2021:** M.S. Student in [Northeastern University](https://www.neu.edu.cn/), China. -->
 
 
-## News
+<!-- ## News
 
 - **[Oct. 2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
 - **[Sep. 2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
-- **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023.
+- **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023. -->
 
 {% include_relative _includes/publications.md %}
 
