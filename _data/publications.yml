@@ -19,6 +19,15 @@ main:
     code: https://github.com/EnnengYang/DFGP
     image: ./assets/img/dfgp_iccv2023.png
 
+  - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
+    authors: Yalin Yu*, <strong>Enneng Yang</strong>*, Guibing Guo, Linying Jiang, Xingwei Wang. (*Equal contribution)
+    conference_short: IJCAI 2023
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023.
+    pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
+    notes: Oral Presentation
+    image: ./assets/img/brl_ijcai2023.png
+    bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
+
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
     authors: <strong>Enneng Yang</strong>*, Junwei Pan*, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (*Equal contribution)
     conference_short: AAAI 2023
