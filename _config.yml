@@ -12,7 +12,7 @@ canonical: https://ennengyang.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+# google_scholar: https://scholar.google.com/
 # cv_link: assets/files/cv_ennengyang.pdf
 github_link: https://github.com/EnnengYang
 # linkedin: https://www.linkedin.com/
@@ -50,9 +50,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/

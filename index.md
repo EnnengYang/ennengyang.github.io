@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I'm currently a third-year Ph.D. student in Software College, Northeastern University, China, advised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). My research interests lie in machine learning and  recommender system.
+I'm currently a third-year Ph.D. student in Software College, [Northeastern University](https://www.neu.edu.cn/), China, advised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). I obtained my M.S. degree from [Northeastern University](https://www.neu.edu.cn/) in June 2018.
+
 
 ## Research Interests
-
-
-- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning
-- **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR prediction, discrete recommendation
+My research interests lie in machine learning and  recommender system. More specifically, I focus on:
+- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning, dataset distillation
+- **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR, discrete optimization for recommendation
 
 
 <!-- ## Education
@@ -25,6 +25,8 @@ I'm currently a third-year Ph.D. student in Software College, Northeastern Unive
 - **[Oct. 2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
 - **[Sep. 2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
 - **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023. -->
+
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
