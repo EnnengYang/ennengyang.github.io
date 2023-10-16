@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a third-year Ph.D. student in Software College, [Northeastern University](https://www.neu.edu.cn/), China, advised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). I obtained my M.S. degree from [Northeastern University](https://www.neu.edu.cn/) in June 2018.
+I'm currently a third-year Ph.D. student in Software College, [Northeastern University](https://www.neu.edu.cn/), China, advised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). I obtained my M.S. degree from [Northeastern University](https://www.neu.edu.cn/) in July 2021.
 
 
 ## Research Interests
