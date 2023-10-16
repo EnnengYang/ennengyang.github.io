@@ -26,7 +26,7 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[Sep. 2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
 - **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023. -->
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
 {% include_relative _includes/publications.md %}
 
