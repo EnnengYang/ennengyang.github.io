@@ -11,6 +11,14 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/example.png
 
+  - title: "TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation"
+    authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
+    conference_short: TKDE 2023
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10285049
+    code: https://github.com/EnnengYang/TiCoSeRec
+    image: ./assets/img/ti_coserec_tkde2023.png
+
   - title: "Data Augmented Flatness-aware Gradient Projection for Continual Learning"
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
     conference_short: ICCV 2023
