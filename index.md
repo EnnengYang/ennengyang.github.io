@@ -46,7 +46,7 @@ My research interests lie in machine learning and  recommender system. More spec
 ## Experience
 - **05/2023 - 09/2023:** Intern at [Digital China](https://www.digitalchina.com/list-78-1.html) Group Co., Ltd.
 - **01/2022 - 06/2022:** Research Intern at [Tencent](https://www.tencent.com/zh-cn/) Inc.
-- **06/2020 - 02/2021:** Research Intern at [Tencent](https://www.tencent.com/zh-cn/) Inc. (<strong> <i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
+- **05/2020 - 02/2021:** Research Intern at [Tencent](https://www.tencent.com/zh-cn/) Inc. (<strong> <i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
 
 
 ## Contact
