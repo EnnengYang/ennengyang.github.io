@@ -22,13 +22,12 @@ My research interests lie in machine learning and  recommender system. More spec
 - **10/2023** Our paper about sequential recommendation is accepted to TKDE 2023.
 - **09/2023** Our paper about dataset condensation is accepted to NeurIPS 2023.
 - **07/2023** Our paper about flatness-aware CL is accepted to ICCV 2023.
-<details>
+- **04/2023** Our paper about next-baseket recommendation is accepted to IJCAI 2023.
+- **11/2022** Our papers about multi-task learning and sequential recommendation are accepted to AAAI 2023.
+
+<!-- <details>
 <summary>More</summary>
-
-  - **04/2023** Our paper about next-baseket recommendation is accepted to IJCAI 2023.
-  - **11/2022** Our papers about multi-task learning and sequential recommendation are accepted to AAAI 2023.
-
-</details>
+</details> -->
 
 
 {% include_relative _includes/publications.md %}
