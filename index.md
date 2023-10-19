@@ -16,20 +16,40 @@ My research interests lie in machine learning and  recommender system. More spec
 - **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR, discrete optimization for recommendation
 
 
-<!-- ## Education
 
-- **03/2024 - 03/2025:** Visiting Ph.D. Student in [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore.
-- **09/2021 - 07/2025:** Ph.D. Student in [Northeastern University](https://www.neu.edu.cn/), China.
-- **09/2018 - 07/2021:** M.S. Student in [Northeastern University](https://www.neu.edu.cn/), China. -->
+## News
 
+- **10/2023** Our paper about sequential recommendation is accepted to TKDE 2023.
+- **09/2023** Our paper about dataset condensation is accepted to NeurIPS 2023.
+- **07/2023** Our paper about flatness-aware CL is accepted to ICCV 2023.
 
-<!-- ## News
+<details>
+<summary>More</summary>
 
-- **[Oct. 2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
-- **[Sep. 2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
-- **[Jul. 2023]** Our paper about flatness-aware CL is accepted to ICCV 2023. -->
+  - **04/2023** Our paper about next-baseket recommendation is accepted to IJCAI 2023.
+  - **11/2022** Our papers about multi-task learning and sequential recommendation are accepted to AAAI 2023.
+</details>
 
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+
+
+## Education
+
+<!-- - **03/2024 - 03/2025:** Visiting Ph.D. Student in [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. -->
+- **09/2021 - 07/2025:** Ph.D. Student in [Northeastern University](https://www.neu.edu.cn/), China.
+- **09/2018 - 07/2021:** M.S. Student in [Northeastern University](https://www.neu.edu.cn/), China.
+
+## Experience
+- **05/2023 - 09/2023:** Intern at [Digital China](https://www.digitalchina.com/list-78-1.html) Group Co., Ltd.
+- **01/2022 - 06/2022:** Research Intern at [Tencent](https://www.tencent.com/zh-cn/) Inc.
+- **06/2020 - 02/2021:** Research Intern at [Tencent](https://www.tencent.com/zh-cn/) Inc. (<strong> <i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
+
+
+## Contact
+**Address**: Software College, Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169. <br/>
+**Email**: ennengyang(at)stumail.neu.edu.cn / ennengyang(at)gmail.com / ennengyang(at)qq.com  
