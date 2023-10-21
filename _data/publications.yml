@@ -23,7 +23,7 @@ main:
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
     conference_short: NeurIPS 2023
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-    # pdf:
+    pdf: https://neurips.cc/virtual/2023/poster/71890
     # code:
     image: ./assets/img/lodm_neurips2023.png
 
