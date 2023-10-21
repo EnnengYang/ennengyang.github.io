@@ -26,6 +26,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf
     code: https://github.com/EnnengYang/DFGP
     image: ./assets/img/dfgp_iccv2023.png
+    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.html
 
   - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
     authors: Yalin Yu*, <strong>Enneng Yang</strong>*, Guibing Guo, Linying Jiang, Xingwei Wang. (*Equal contribution)
