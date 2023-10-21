@@ -50,5 +50,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 
 ## Contact
-**Address**: Software College, Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169. <br/>
-**Email**: ennengyang(at)stumail.neu.edu.cn / ennengyang(at)gmail.com / ennengyang(at)qq.com  
+**Address**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169. <br/>
+**Email**: ennengyang(at)stumail.neu.edu.cn
+
+ <!-- / ennengyang(at)gmail.com / ennengyang(at)qq.com   -->
