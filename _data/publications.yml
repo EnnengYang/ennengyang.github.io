@@ -19,6 +19,14 @@ main:
     code: https://github.com/EnnengYang/TiCoSeRec
     image: ./assets/img/ti_coserec_tkde2023.png
 
+  - title: "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning"
+    authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
+    conference_short: NeurIPS 2023
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    # pdf:
+    # code:
+    image: ./assets/img/lodm_neurips2023.png
+
   - title: "Data Augmented Flatness-aware Gradient Projection for Continual Learning"
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
     conference_short: ICCV 2023
