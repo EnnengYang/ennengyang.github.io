@@ -12,8 +12,8 @@ I obtained my M.S. degree from [Northeastern University, China](https://www.neu.
 
 ## Research Interests
 My research interests lie in machine learning and  recommender system. More specifically, I focus on:
-- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning, dataset distillation
-- **Recommendation System:** multi-task recommendation, sequential recommendation, CTR/CVR prediction, discrete optimization for recommendation
+- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
+- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, CTR/CVR prediction, discrete optimization for recommendation
 
 
 
