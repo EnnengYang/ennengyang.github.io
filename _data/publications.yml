@@ -23,8 +23,8 @@ main:
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
     conference_short: NeurIPS 2023
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-    pdf: https://neurips.cc/virtual/2023/poster/71890
-    # code:
+    pdf: https://openreview.net/pdf?id=Murj6wcjRw
+    code: https://github.com/EnnengYang/Efficient-Dataset-Condensation-Plugin
     image: ./assets/img/lodm_neurips2023.png
 
   - title: "Data Augmented Flatness-aware Gradient Projection for Continual Learning"
