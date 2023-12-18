@@ -4,8 +4,6 @@ position: Ph.D. Student
 affiliation: Northeastern University, China
 email: ennengyang@stumail.neu.edu.cn
 
-# / ennengyang@gmail.com / ennengyang@qq.com
-
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 # keywords: Enneng Yang
@@ -14,9 +12,9 @@ email: ennengyang@stumail.neu.edu.cn
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
-# cv_link: assets/files/cv_ennengyang.pdf
+google_scholar: https://scholar.google.com/citations?hl=en&user=vWBd1VsAAAAJ&view_op=list_works&gmla=AJsN-F7MsVwjxVFRxGbGrFwtpUQc64KBEmEFL8weEIYr8KxZjFLTnKhLTkSM635ys-xZ5CQpYCQVKznsxDZPE_Vhb6fUhIybVI4LdzVbLT5zt71lL5BNLS0
 github_link: https://github.com/EnnengYang
+# cv_link: assets/files/cv_ennengyang.pdf
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
@@ -29,7 +27,7 @@ favicon_dark: ./assets/img/favicon-dark-1.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
