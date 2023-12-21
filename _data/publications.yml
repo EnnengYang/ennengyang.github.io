@@ -37,7 +37,7 @@ main:
     notes: CCF-A
     code: https://github.com/EnnengYang/DFGP
     image: ./assets/img/dfgp_iccv2023.png
-    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.html
+    # bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.html
 
   - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
     authors: Yalin Yu*, <strong>Enneng Yang</strong>*, Guibing Guo, Linying Jiang, Xingwei Wang. (*Equal contribution)
@@ -46,7 +46,7 @@ main:
     pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
     notes: CCF-A, Oral Presentation
     image: ./assets/img/brl_ijcai2023.png
-    bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
+    # bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
 
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
     authors: <strong>Enneng Yang</strong>*, Junwei Pan*, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (*Equal contribution)
@@ -56,7 +56,7 @@ main:
     code: https://github.com/EnnengYang/AdaTask
     notes: CCF-A, Oral Presentation
     image: ./assets/img/adatask_aaai2023.png
-    bibtex: https://dblp.org/rec/conf/aaai/YangPWYSCXJG23.html?view=bibtex
+    # bibtex: https://dblp.org/rec/conf/aaai/YangPWYSCXJG23.html?view=bibtex
 
   - title: "Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
@@ -66,7 +66,7 @@ main:
     code: https://github.com/EnnengYang/TiCoSeRec
     notes: CCF-A, Oral Presentation
     image: ./assets/img/ti_coserec_aaai2023.png
-    bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
+    # bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
 
   - title: "Discrete Trust-aware Matrix Factorization for Fast Recommendation"
     authors: Guibing Guo, <strong>Enneng Yang</strong><sup>#</sup>, Li Shen<sup>#</sup>, Xiaochun Yang, Xiaodong He. (<sup>#</sup>Corresponding author)
@@ -76,4 +76,4 @@ main:
     code: https://github.com/EnnengYang/DTMF
     notes: CCF-A, Oral Presentation
     image: ./assets/img/dtmf_ijcai2019.png
-    bibtex: https://dblp.org/rec/conf/ijcai/GuoYSYH19.html?view=bibtex
+    # bibtex: https://dblp.org/rec/conf/ijcai/GuoYSYH19.html?view=bibtex
