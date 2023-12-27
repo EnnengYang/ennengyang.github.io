@@ -18,11 +18,11 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## News
 
-- **10/2023** Our paper about explanation recommendation is accepted to KBS 2023.
-- **10/2023** Our paper about sequential recommendation is accepted to TKDE 2023.
-- **09/2023** Our paper about dataset condensation is accepted to NeurIPS 2023.
-- **07/2023** Our paper about flatness-aware CL is accepted to ICCV 2023.
-- **04/2023** Our paper about next-baseket recommendation is accepted to IJCAI 2023.
+- **[10/2023]** Our paper about explanation recommendation is accepted to KBS 2023.
+- **[10/2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
+- **[09/2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
+- **[07/2023]** Our paper about flatness-aware CL is accepted to ICCV 2023.
+- **]04/2023]** Our paper about next-baseket recommendation is accepted to IJCAI 2023.
 <!-- - **11/2022** Our papers about multi-task learning and sequential recommendation are accepted to AAAI 2023. -->
 
 <!-- <details>
@@ -39,7 +39,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## Education
 
-<!-- - **03/2024 - 03/2025:** Visiting Ph.D. Student in Nanyang Technological University, Singapore. -->
+- **03/2024 - 03/2025:** Visiting Ph.D. Student in Nanyang Technological University, Singapore.
 - **09/2021 - 07/2025:** Ph.D. Student in Northeastern University, China.
 - **09/2018 - 07/2021:** M.S. Student in Northeastern University, China.
 
@@ -51,6 +51,4 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## Contact
 **Address**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169. <br/>
-**Email**: ennengyang(at)stumail.neu.edu.cn
-
- <!-- / ennengyang(at)gmail.com / ennengyang(at)qq.com   -->
+**Email**: ennengyang(at)stumail.neu.edu.cn / ennengyang(at)gmail.com / ennengyang(at)qq.com
