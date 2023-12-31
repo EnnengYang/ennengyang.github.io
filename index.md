@@ -39,14 +39,14 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## Education
 
-- **03/2024 - 03/2025:** Visiting Ph.D. Student in Nanyang Technological University, Singapore.
-- **09/2021 - 07/2025:** Ph.D. Student in Northeastern University, China.
-- **09/2018 - 07/2021:** M.S. Student in Northeastern University, China.
+- **03/2024 - 03/2025:** Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+- **09/2021 - 07/2025:** Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- **09/2018 - 07/2021:** M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
 
 ## Experience
-- **05/2023 - 09/2023:** Intern at Digital China Group Co., Ltd.
-- **01/2022 - 06/2022:** Research Intern at Tencent Inc.
-- **05/2020 - 02/2021:** Research Intern at Tencent Inc. (<strong> <i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
+- **05/2023 - 09/2023:** Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
+- **01/2022 - 06/2022:** Research Intern at [Tencent Inc](https://www.tencent.com/).
+- **05/2020 - 02/2021:** Research Intern at [Tencent Inc](https://www.tencent.com/). (<strong> <i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
 
 
 ## Contact
