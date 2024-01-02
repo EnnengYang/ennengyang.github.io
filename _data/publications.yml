@@ -44,7 +44,7 @@ main:
     conference_short: IJCAI 2023
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023.
     pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
-    notes: CCF-A, Oral
+    notes: CCF-A, Oral Presentation
     image: ./assets/img/brl_ijcai2023.png
     # bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
 
@@ -54,7 +54,7 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2211.15055.pdf
     code: https://github.com/EnnengYang/AdaTask
-    notes: CCF-A, Oral
+    notes: CCF-A, Oral Presentation
     image: ./assets/img/adatask_aaai2023.png
     # bibtex: https://dblp.org/rec/conf/aaai/YangPWYSCXJG23.html?view=bibtex
 
@@ -64,7 +64,7 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2212.08262.pdf
     code: https://github.com/EnnengYang/TiCoSeRec
-    notes: CCF-A, Oral
+    notes: CCF-A, Oral Presentation
     image: ./assets/img/ti_coserec_aaai2023.png
     # bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
 
@@ -74,6 +74,6 @@ main:
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019.
     pdf: https://www.ijcai.org/proceedings/2019/0191.pdf
     code: https://github.com/EnnengYang/DTMF
-    notes: CCF-A, Oral
+    notes: CCF-A, Oral Presentation
     image: ./assets/img/dtmf_ijcai2019.png
     # bibtex: https://dblp.org/rec/conf/ijcai/GuoYSYH19.html?view=bibtex
