@@ -1,0 +1,21 @@
+main:
+
+  # - title: " "
+  #   authors:
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf:
+  #   code:
+  #   page:
+  #   bibtex:
+  #   notes: Oral Presentation
+  #   image: ./assets/img/example.png
+
+  - title: "A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning"
+    authors: Zhenyi Wang, <strong>Enneng Yang</strong>, Li Shen, Heng Huang.
+    conference_short: Arxiv 2023
+    conference: arXiv preprint arXiv:2307.09218
+    pdf: https://arxiv.org/pdf/2307.09218.pdf
+    notes: Survey
+    code: https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning
+    image: ./assets/img/forgetting_survey_arxiv2023.png

@@ -30,6 +30,7 @@ My research interests lie in machine learning and  recommender system. More spec
 <summary>More</summary>
 </details> -->
 
+{% include_relative _includes/pre_publications.md %}
 
 {% include_relative _includes/publications.md %}
 
