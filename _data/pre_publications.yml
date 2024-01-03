@@ -16,6 +16,6 @@ main:
     conference_short: Arxiv 2023
     conference: arXiv preprint arXiv:2307.09218
     pdf: https://arxiv.org/pdf/2307.09218.pdf
-    notes: Survey
+    notes: Survey Paper
     code: https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning
     image: ./assets/img/forgetting_survey_arxiv2023.png
