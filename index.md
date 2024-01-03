@@ -18,7 +18,8 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## News
 
-- **[10/2023]** Our paper about explanation recommendation is accepted to KBS 2023.
+- **[12/2023]** Our paper about federated recommendation is accepted to Journal of Chinese Information Processing 2023.
+- **[10/2023]** Our paper about explanation recommendation is accepted to Knowledge-Based Systems (KBS) 2023.
 - **[10/2023]** Our paper about sequential recommendation is accepted to TKDE 2023.
 - **[09/2023]** Our paper about dataset condensation is accepted to NeurIPS 2023.
 - **[07/2023]** Our paper about flatness-aware CL is accepted to ICCV 2023.
