@@ -16,7 +16,6 @@ My research interests lie in machine learning and  recommender system. More spec
 - **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, CTR/CVR prediction, discrete optimization for recommendation
 
 
-
 ## News
 - **[12/2023]** Our paper about federated recommendation is accepted to Journal of Chinese Information Processing 2023.
 - **[10/2023]** Our paper about explanation recommendation is accepted to Knowledge-Based Systems 2023.
@@ -47,6 +46,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 ## Selected Honors
 - **[10/2023]** National Scholarship
+<!-- - **[07/2023]** Chinese Government Scholarship -->
 - **[02/2023]** AAAI 2023 Student Travel Grant
 - **[08/2021]** Tencent Rhino-Bird Elite Talent
 - **[10/2019]** National Scholarship
