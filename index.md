@@ -35,15 +35,15 @@ My research interests lie in machine learning and  recommender system. More spec
 
 
 ## Education
-- **[03/2024 - 03/2025]** Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
-- **[09/2021 - 07/2025]** Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
-- **[09/2018 - 07/2021]** M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- **[03/2024 ~ 03/2025]** Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+- **[09/2021 ~ 07/2025]** Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- **[09/2018 ~ 07/2021]** M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
 
 
 ## Experience
-- **[05/2023 - 09/2023]** Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
-- **[01/2022 - 06/2022]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
-- **[05/2020 - 02/2021]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (<strong><i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
+- **[05/2023 ~ 09/2023]** Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
+- **[01/2022 ~ 06/2022]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
+- **[05/2020 ~ 02/2021]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (<strong><i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Training Program</i></strong>)
 
 ## Selected Honors
 - **[10/2023]** National Scholarship
