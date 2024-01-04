@@ -69,7 +69,7 @@ main:
     # bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
 
   - title: "Discrete Trust-aware Matrix Factorization for Fast Recommendation"
-    authors: Guibing Guo, <strong>Enneng Yang</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Li Shen<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Xiaochun Yang, Xiaodong He. (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>Corresponding author)
+    authors: Guibing Guo, <strong>Enneng Yang</strong><sup><i class="fa fa-envelope"></i></sup>, Li Shen<sup><i class="fa fa-envelope"></i></sup>, Xiaochun Yang, Xiaodong He. (<sup><i class="fa fa-envelope"></i></sup>Corresponding author)
     conference_short: IJCAI 2019
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019. (Macao)
     pdf: https://www.ijcai.org/proceedings/2019/0191.pdf
