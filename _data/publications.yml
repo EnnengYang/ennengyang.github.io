@@ -40,7 +40,7 @@ main:
     # bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.html
 
   - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
-    authors: Yalin Yu<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Guibing Guo, Linying Jiang, Xingwei Wang. (<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>Equal contribution)
+    authors: Yalin Yu<sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>, <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>, Guibing Guo, Linying Jiang, Xingwei Wang. (<sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>Equal contribution)
     conference_short: IJCAI 2023
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023. (Macao)
     pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
@@ -49,7 +49,7 @@ main:
     # bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
 
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
-    authors: <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Junwei Pan<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>Equal contribution)
+    authors: <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>, Junwei Pan<sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (<sup><i class="fa fa-balance-scale" style="font-size:6px;"></i></sup>Equal contribution)
     conference_short: AAAI 2023
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (Washington D.C.)
     pdf: https://arxiv.org/pdf/2211.15055.pdf
@@ -69,7 +69,7 @@ main:
     # bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
 
   - title: "Discrete Trust-aware Matrix Factorization for Fast Recommendation"
-    authors: Guibing Guo, <strong>Enneng Yang</strong><sup><i class="fa fa-envelope" style="font-size:8px;"></i></sup>, Li Shen<sup><i class="fa fa-envelope" style="font-size:8px;"></i></sup>, Xiaochun Yang, Xiaodong He. (<sup><i class="fa fa-envelope"  style="font-size:8px;"></i></sup>Corresponding author)
+    authors: Guibing Guo, <strong>Enneng Yang</strong><sup><i class="fa fa-envelope" style="font-size:6px;"></i></sup>, Li Shen<sup><i class="fa fa-envelope" style="font-size:6px;"></i></sup>, Xiaochun Yang, Xiaodong He. (<sup><i class="fa fa-envelope"  style="font-size:6px;"></i></sup>Corresponding author)
     conference_short: IJCAI 2019
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019. (Macao)
     pdf: https://www.ijcai.org/proceedings/2019/0191.pdf
