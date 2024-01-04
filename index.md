@@ -39,8 +39,6 @@ My research interests lie in machine learning and  recommender system. More spec
 {% include_relative _includes/services.md %}
 
 
-
-
 ## Education
 
 - **03/2024 - 03/2025:** Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
