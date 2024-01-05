@@ -43,8 +43,8 @@
       {{ link.others }}
       {% endif %}
     </div>
-    <div class="cite"><img src="https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning"></div>
-    <!-- <div class="cite"><img src="https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12"></div> -->
+    <!-- <div class="cite"><img src="https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning"></div> -->
+    <div class="cite"><img src="https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12"></div>
   </div>
 </div>
 </li>
