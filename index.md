@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I'm currently a third-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Dr. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang).
-From March 2024 to March 2025, I will go to [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)’s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) as a visiting Ph.D. Student.
+From March 2024 to March 2025, I will go to [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)’s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) as a visiting Ph.D. student.
 
 <!-- Before that, I obtained my M.S. degree from [Northeastern University, China](https://www.neu.edu.cn/) in July 2021. -->
 <!-- (I am also under the guidance of Dr. [Li Shen](https://sites.google.com/site/mathshenli/home)) -->
@@ -48,7 +48,7 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[10/2023]** National Scholarship
 <!-- - **[07/2023]** Chinese Government Scholarship -->
 - **[02/2023]** AAAI 2023 Student Travel Grant
-- **[08/2021]** Tencent Rhino-Bird Elite Talent
+- **[08/2021]** Tencent Rhino-Bird Elite Talent Title
 - **[10/2019]** National Scholarship
 - **[10/2017]** National Scholarship
 
