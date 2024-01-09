@@ -17,7 +17,7 @@ main:
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10285049
     notes: CCF-A
-    code: https://github.com/EnnengYang/TiCoSeRec
+    code: https://github.com/KingGugu/TiCoSeRec
     image: ./assets/img/ti_coserec_tkde2023.png
 
   - title: "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning"
@@ -65,7 +65,7 @@ main:
     conference_short: AAAI 2023
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (Washington D.C.)
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25540
-    code: https://github.com/EnnengYang/TiCoSeRec
+    code: https://github.com/KingGugu/TiCoSeRec
     notes: CCF-A, Oral Presentation
     image: ./assets/img/ti_coserec_aaai2023.png
     # bibtex: https://dblp.org/rec/conf/aaai/DangYGJ0XSL23.html?view=bibtex
