@@ -2,7 +2,7 @@
 
 This is the source code of my homepage.
 
-## Project Architecture
+<!-- ## Project Architecture
 
 ```
 .
@@ -25,7 +25,7 @@ This is the source code of my homepage.
 ├── README.md                                 #  the readme file (English)
 ├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
 └── index.md                                  #  the content of the index page, using Markdown
-```
+``` -->
 
 
 ## Acknowledgements
