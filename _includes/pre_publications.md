@@ -31,7 +31,7 @@
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.appendix %}
-      <a href="{{ link.appendix }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
+      <a href="{{ link.appendix }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">supplemental</a>
       {% endif %}
       {% if link.bibtex %}
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>

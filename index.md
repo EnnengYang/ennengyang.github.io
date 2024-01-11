@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm currently a third-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Dr. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang).
-From March 2024 to March 2025, I will go to [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)’s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) as a visiting Ph.D. student.
+I'm currently a third-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Dr. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang). From March 2024 to March 2025, I will go to [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)’s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) as a visiting Ph.D. student.
 
 <!-- Before that, I obtained my M.S. degree from [Northeastern University, China](https://www.neu.edu.cn/) in July 2021. -->
 <!-- (I am also under the guidance of Dr. [Li Shen](https://sites.google.com/site/mathshenli/home)) -->
