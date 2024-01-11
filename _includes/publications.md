@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">
 Selected Publications
-<a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CCF-Rank</a>
+<a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">CCF-Rank</a>
 <!-- <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=f6f6f6&color=9cf&style=flat&label=Citations&logo=Google%20Scholar&query=total_citations&url=https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=vWBd1VsAAAAJ"> -->
 </h2>
 
