@@ -16,6 +16,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 
 ## News
+- **[01/2024]** Our paper about model merging is accepted to ICLR 2024.
 - **[12/2023]** Our paper about federated recommendation is accepted to Journal of Chinese Information Processing 2023.
 - **[10/2023]** Our paper about explanation recommendation is accepted to Knowledge-Based Systems 2023.
 - **[10/2023]** Our paper about sequential recommendation is accepted to TKDE 2023.

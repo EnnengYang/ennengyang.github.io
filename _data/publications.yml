@@ -11,6 +11,15 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/example.png
 
+  - title: "AdaMerging: Adaptive Model Merging for Multi-Task Learning"
+    authors: <strong>Enneng Yang</strong>, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
+    conference_short: ICLR 2024
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2310.02575.pdf
+    notes: CORE-A*
+    code: https://github.com/EnnengYang/AdaMerging
+    image: ./assets/img/adamerging_iclr2024.jpg
+
   - title: "TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
     conference_short: TKDE 2023
