@@ -16,7 +16,7 @@ main:
     conference_short: ICLR 2024
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.02575.pdf
-    notes: CORE-A*
+    notes: CORE-A*, CCAI-A
     code: https://github.com/EnnengYang/AdaMerging
     image: ./assets/img/adamerging_iclr2024.jpg
 
