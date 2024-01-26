@@ -14,7 +14,7 @@ main:
   - title: "AdaMerging: Adaptive Model Merging for Multi-Task Learning"
     authors: <strong>Enneng Yang</strong>, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
     conference_short: ICLR 2024
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Vienna, Austria)
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Vienna, Austria)
     pdf: https://arxiv.org/pdf/2310.02575.pdf
     notes: CORE-A*, CCAI-A
     code: https://github.com/EnnengYang/AdaMerging
@@ -32,7 +32,7 @@ main:
   - title: "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning"
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
     conference_short: NeurIPS 2023
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:8px;"></i>New Orleans, America)
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:10px;"></i>New Orleans, America)
     pdf: https://openreview.net/pdf?id=Murj6wcjRw
     notes: CORE-A*, CCF-A
     code: https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin
@@ -41,7 +41,7 @@ main:
   - title: "Data Augmented Flatness-aware Gradient Projection for Continual Learning"
     authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
     conference_short: ICCV 2023
-    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Paris, France)
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Paris, France)
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf
     appendix: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Data_Augmented_Flatness-aware_ICCV_2023_supplemental.pdf
     notes: CORE-A*, CCF-A
@@ -52,7 +52,7 @@ main:
   - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
     authors: Yalin Yu<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Guibing Guo, Linying Jiang, Xingwei Wang. (<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>Equal contribution)
     conference_short: IJCAI 2023
-    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Macao, China)
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Macao, China)
     pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
     notes: CORE-A*, CCF-A, Oral
     image: ./assets/img/brl_ijcai2023.png
@@ -61,7 +61,7 @@ main:
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
     authors: <strong>Enneng Yang</strong><sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Junwei Pan<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (<sup><i class="fa fa-balance-scale" style="font-size:8px;"></i></sup>Equal contribution)
     conference_short: AAAI 2023
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Washington D.C., America)
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Washington D.C., America)
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26275
     appendix: https://arxiv.org/pdf/2211.15055.pdf
     code: https://github.com/EnnengYang/AdaTask
@@ -72,7 +72,7 @@ main:
   - title: "Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
     conference_short: AAAI 2023
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Washington D.C., America)
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Washington D.C., America)
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25540
     code: https://github.com/KingGugu/TiCoSeRec
     notes: CORE-A*, CCF-A, Oral
@@ -82,7 +82,7 @@ main:
   - title: "Discrete Trust-aware Matrix Factorization for Fast Recommendation"
     authors: Guibing Guo, <strong>Enneng Yang</strong><sup><i class="fa fa-envelope" style="font-size:8px;"></i></sup>, Li Shen<sup><i class="fa fa-envelope" style="font-size:8px;"></i></sup>, Xiaochun Yang, Xiaodong He. (<sup><i class="fa fa-envelope"  style="font-size:8px;"></i></sup>Corresponding author)
     conference_short: IJCAI 2019
-    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019. (<i class="fa fa-map-marker" style="font-size:8px;"></i>Macao, China)
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2019. (<i class="fa fa-map-marker" style="font-size:10px;"></i>Macao, China)
     pdf: https://www.ijcai.org/proceedings/2019/0191.pdf
     code: https://github.com/EnnengYang/DTMF
     notes: CORE-A*, CCF-A, Oral
