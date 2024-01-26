@@ -1,6 +1,6 @@
-# Homepage
+<!-- # Homepage
 
-This is the source code of my homepage.
+This is the source code of my homepage. -->
 
 <!-- ## Project Architecture
 
@@ -28,7 +28,7 @@ This is the source code of my homepage.
 ``` -->
 
 
-## Acknowledgements
+# Acknowledgements
 
 Our project uses the source code from the following repositories:
 
