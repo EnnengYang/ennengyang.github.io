@@ -54,6 +54,8 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[10/2017]** National Scholarship
 
 ## Contact
-**Address**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169. <br/> Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798.
+**Address 1**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
 
-**Email**: ennengyang(at)stumail.neu.edu.cn / ennengyang(at)gmail.com / ennengyang(at)qq.com
+**Address 2**: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798.
+
+**Email**: ennengyang(at)stumail.neu.edu.cn / n2308949l(at)e.ntu.edu.sg / ennengyang(at)gmail.com / ennengyang(at)qq.com
