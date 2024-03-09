@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-I'm currently a third-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Dr. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang). From March 2024 to March 2025, I will go to [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)’s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) as a visiting Ph.D. student.
+I'm currently a third-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Dr. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
 <!-- Before that, I obtained my M.S. degree from [Northeastern University, China](https://www.neu.edu.cn/) in July 2021. -->
-<!-- (I am also under the guidance of Dr. [Li Shen](https://sites.google.com/site/mathshenli/home)) -->
+
 
 
 ## Research Interests
@@ -54,9 +54,9 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[10/2017]** National Scholarship
 
 ## Contact
-**Address 1**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
+**NEU Address**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
 
-**Address 2**: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798.
+**NTU Address**: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798. (<strong><i style="color:#e74d3c">Current Address</i></strong>)
 
 **Email**: ennengyang@stumail.neu.edu.cn / n2308949l@e.ntu.edu.sg
  <!-- / ennengyang@gmail.com / ennengyang@qq.com -->
