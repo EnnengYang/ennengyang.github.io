@@ -15,7 +15,7 @@ Selected Publications
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;padding-top: 0px;">
     {% if link.image %}
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=50%">
     {% endif %}
