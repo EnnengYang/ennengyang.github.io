@@ -18,7 +18,7 @@ main:
     pdf: https://openreview.net/pdf?id=nZP6NgD3QY
     code: https://github.com/EnnengYang/AdaMerging
     image: ./assets/img/adamerging_iclr2024.jpg
-    notes: CCAI-A
+    notes: CORE-A*, CCAI-A
 
   - title: "TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
