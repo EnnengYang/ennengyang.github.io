@@ -58,5 +58,5 @@ My research interests lie in machine learning and  recommender system. More spec
 
 **NTU Address**: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798. (<strong><i style="color:#e74d3c">Current Address</i></strong>)
 
-**Email**: ennengyang@stumail.neu.edu.cn / n2308949l@e.ntu.edu.sg
+**Email**: ennengyang(at)stumail.neu.edu.cn / n2308949l(at)e.ntu.edu.sg
  <!-- / ennengyang@gmail.com / ennengyang@qq.com -->
