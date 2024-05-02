@@ -10,6 +10,14 @@ main:
   #   bibtex:
   #   notes: Oral Presentation
   #   image: ./assets/img/example.png
+  - title: "Representation Surgery for Multi-Task Model Merging"
+    authors: <strong>Enneng Yang</strong>, Li Shen, Zhenyi Wang, Guibing Guo, Xiaojun Chen, Xingwei Wang, Dacheng Tao.
+    conference_short: ICML 2024
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024. (Vienna, Austria)
+    pdf: https://openreview.net/pdf?id=Sbl2keQEML
+    code: https://github.com/EnnengYang/RepresentationSurgery
+    image: ./assets/img/representationsurgery_icml2024.png
+    notes: CCF-A
 
   - title: "AdaMerging: Adaptive Model Merging for Multi-Task Learning"
     authors: <strong>Enneng Yang</strong>, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
