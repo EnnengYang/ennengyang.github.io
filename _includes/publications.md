@@ -17,7 +17,7 @@ Selected Publications
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 5px;padding-top: 0px;">
     {% if link.image %}
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=60%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=50%">
     {% endif %}
     {% if link.conference_short %}
     <abbr class="badge">{{ link.conference_short }}</abbr>
