@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Conference on Neural Information Processing Systems (NeurIPS) 2024</li>
   <li>International Conference on Machine Learning (ICML) 2024</li>
   <li>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI) 2024</li>
