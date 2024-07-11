@@ -57,17 +57,8 @@ main:
     notes: CCF-A
     # bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.html
 
-  - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
-    authors: Yalin Yu*, <strong>Enneng Yang</strong>*, Guibing Guo, Linying Jiang, Xingwei Wang. (*Equal contribution)
-    conference_short: IJCAI 2023
-    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023. (Macao, China)
-    pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
-    image: ./assets/img/brl_ijcai2023.png
-    notes: CCF-A, Oral
-    # bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
-
   - title: "AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning"
-    authors: <strong>Enneng Yang</strong>*, Junwei Pan*, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo. (*Equal contribution)
+    authors: <strong>Enneng Yang</strong>, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
     conference_short: AAAI 2023
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023. (Washington D.C., America)
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26275
@@ -76,6 +67,17 @@ main:
     image: ./assets/img/adatask_aaai2023.png
     notes: CCF-A, Oral
     # bibtex: https://dblp.org/rec/conf/aaai/YangPWYSCXJG23.html?view=bibtex
+
+    # (*Equal contribution)
+
+  - title: "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation"
+    authors: Yalin Yu*, <strong>Enneng Yang</strong>*, Guibing Guo, Linying Jiang, Xingwei Wang. (*Equal contribution)
+    conference_short: IJCAI 2023
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023. (Macao, China)
+    pdf: https://www.ijcai.org/proceedings/2023/0268.pdf
+    image: ./assets/img/brl_ijcai2023.png
+    notes: CCF-A, Oral
+    # bibtex: https://dblp.org/rec/conf/ijcai/YuYGJ023.html?view=bibtex
 
   - title: "Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation"
     authors: Yizhou Dang, <strong>Enneng Yang</strong>, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
