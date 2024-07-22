@@ -16,6 +16,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 
 ## News
+- **[07/2024]** Our paper about sequential recommendation is accepted to RecSys 2024.
 - **[06/2024]** Our paper about deconfounding recommendation is accepted to ACM TKDD 2024.
 - **[05/2024]** Our paper about model merging is accepted to ICML 2024.
 - **[02/2024]** Our paper about multi-task recommendation is accepted to ACM TKDD 2024.
