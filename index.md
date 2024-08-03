@@ -8,7 +8,6 @@ I'm currently a third-year Ph.D. student in Software College, [Northeastern Univ
 <!-- Before that, I obtained my M.S. degree from [Northeastern University, China](https://www.neu.edu.cn/) in July 2021. -->
 
 
-
 ## Research Interests
 My research interests lie in machine learning and  recommender system. More specifically, I focus on:
 - **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
@@ -48,6 +47,7 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[01/2022 ~ 06/2022]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
 - **[05/2020 ~ 02/2021]** Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (<strong><i style="color:#e74d3c">2020 Tencent Rhino-Bird Elite Talent Training Program</i></strong>)
 
+
 ## Selected Honors
 - **[10/2023]** National Scholarship
 <!-- - **[07/2023]** Chinese Government Scholarship -->
@@ -55,6 +55,7 @@ My research interests lie in machine learning and  recommender system. More spec
 - **[08/2021]** Tencent Rhino-Bird Elite Talent Title
 - **[10/2019]** National Scholarship
 - **[10/2017]** National Scholarship
+
 
 ## Contact
 **NEU Address**: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
