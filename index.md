@@ -10,8 +10,8 @@ I'm currently a third-year Ph.D. student in Software College, [Northeastern Univ
 
 ## Research Interests
 My research interests lie in machine learning and  recommender system. More specifically, I focus on:
-- **Machine Learning:** multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
-- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, CTR/CVR prediction, discrete optimization for recommendation
+- **Machine Learning:** model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
+- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
 
 
 ## News
