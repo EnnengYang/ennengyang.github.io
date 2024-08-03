@@ -51,8 +51,8 @@ My research interests lie in machine learning and  recommender system. More spec
 ## Selected Honors
 - **[10/2023]** National Scholarship
 <!-- - **[07/2023]** Chinese Government Scholarship -->
-<!-- - **[02/2023]** AAAI 2023 Student Travel Grant
-- **[08/2021]** Tencent Rhino-Bird Elite Talent Title -->
+<!-- - **[02/2023]** AAAI 2023 Student Travel Grant -->
+<!-- - **[08/2021]** Tencent Rhino-Bird Elite Talent Title -->
 - **[10/2019]** National Scholarship
 - **[10/2017]** National Scholarship
 
