@@ -1,4 +1,4 @@
-<h2 id="pre_publications" style="margin: 2px 0px -15px;">Selected Preprints</h2>
+<h2 id="pre_publications" style="margin: 2px 0px -15px;">Survey Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
