@@ -10,7 +10,7 @@ main:
     url: "/#-repositories"
     
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-selected-preprints-and-publications"
 
   - title: "Educations"
     url: "/#-educations"
