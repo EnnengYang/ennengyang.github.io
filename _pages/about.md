@@ -156,7 +156,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - *2023.05 - 2023.09*: Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
 - *2022.01 - 2022.06*: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
-- *2020.05 - 2021.02*: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (<font color="red">2020 Tencent Rhino-Bird Elite Talent Training Program</font>)
+- *2020.05 - 2021.02*: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (2020 Tencent Rhino-Bird Elite Talent Training Program)
 
 
 # 🏆 Honors and Awards
