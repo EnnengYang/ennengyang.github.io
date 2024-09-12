@@ -144,26 +144,26 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 📖 Educations
 
-- *2024.03 - 2025.03*: Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
-- *2021.09 - 2025.07 (Expected)*: Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- 2024.03 - 2025.03: Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+- 2021.09 - 2025.07 (Expected): Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
 
 <!--
-- *2018.09 - 2021.07*: M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- 2018.09 - 2021.07: M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
 -->
 
 
 # 💻 Internships
 
-- *2023.05 - 2023.09*: Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
-- *2022.01 - 2022.06*: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
-- *2020.05 - 2021.02*: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (2020 Tencent Rhino-Bird Elite Talent Training Program)
+- 2023.05 - 2023.09: Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
+- 2022.01 - 2022.06: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
+- 2020.05 - 2021.02: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao. (2020 Tencent Rhino-Bird Elite Talent Training Program)
 
 
 # 🏆 Honors and Awards
 
-- *2023*: National Scholarship (Top 1%)
-- *2019*: National Scholarship (Top 1%)
-- *2017*: National Scholarship (Top 1%)
+- 2023: National Scholarship (Top 1%)
+- 2019: National Scholarship (Top 1%)
+- 2017: National Scholarship (Top 1%)
 
 
 # 🔖 Service
