@@ -168,7 +168,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 🔖 Service
 
-- Conference Reviewers: 
+## Conference Reviewers
   - International Conference on Learning Representations (ICLR) 2025
   - AAAI Conference on Artificial Intelligence (AAAI) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2024
@@ -177,7 +177,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - AAAI Conference on Artificial Intelligence (AAAI) 2024
   - The Web Conference (International World Wide Web Conference) (WWW) 2023
   - ACM International Conference on Web Search and Data Mining (WSDM) 2023
-- Journal Reviewers:
+## Journal Reviewers
   - IIEEE Transactions on Big Data (TBD) 2024
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
   - Neural Computing and Applications (NCAA) 2024
