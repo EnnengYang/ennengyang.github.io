@@ -68,7 +68,7 @@ My research interests lie in machine learning and  recommender system. More spec
 -->
 
   
-# 📝 Selected Publications 
+# 📝 Selected Preprints and Publications 
 
 <!-- -
 <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCF-Rank]</a>
