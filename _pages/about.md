@@ -172,7 +172,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2021.05: "Opportunities and Challenges of Recommender Systems"; Inviter: CCF·YEF·2021 
 
 
-# 🔖 Service
+# 🔖 Services
 
 ## Conference Reviewers
   - International Conference on Learning Representations (ICLR) 2025
