@@ -180,7 +180,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - ACM International Conference on Web Search and Data Mining (WSDM) 2023
     
 ## Journal Reviewers
-  - IIEEE Transactions on Big Data (TBD) 2024
+  - IEEE Transactions on Big Data (TBD) 2024
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
   - Neural Computing and Applications (NCAA) 2024
   - ACM Transactions on Recommender Systems (TORS) 2022
