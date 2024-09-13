@@ -48,7 +48,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # ✨ Repositories
 
-😄 Comments and contributions are welcome.
+*Comments and contributions are welcome*. 👏
 
 - [**Awesome-Model-Merging-Methods-Theories-Applications**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Model-Merging-Methods-Theories-Applications?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   This repository collects the latest research progress of Moedel Merging in Machine Learning. 
@@ -113,11 +113,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Enneng Yang**, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
 
 - Data Augmented Flatness-aware Gradient Projection for Continual Learning\
-  `ICCV 2023` | [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf)  [**Supplemental**](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Data_Augmented_Flatness-aware_ICCV_2023_supplemental.pdf) [**Code**](https://github.com/EnnengYang/DFGP)   \
+  `ICCV 2023` | [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf)  [**Appendix**](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Data_Augmented_Flatness-aware_ICCV_2023_supplemental.pdf) [**Code**](https://github.com/EnnengYang/DFGP)   \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
 
 - AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning\
-  `AAAI 2023` (Oral) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26275)  [**Supplemental**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
+  `AAAI 2023` (Oral) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26275)  [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
   **Enneng Yang**, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
 
 - Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation\
