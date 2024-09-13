@@ -167,6 +167,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2017: National Scholarship (Top 1%)
 
 
+# 💬 Invited Talks
+- 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
+- 2021.05: "Opportunities and Challenges of Recommender Systems"; Inviter: CCF·YEF·2021 
+
+
 # 🔖 Service
 
 ## Conference Reviewers
@@ -192,7 +197,4 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - Email: ennengyang(at)stumail.neu.edu.cn / n2308949l(at)e.ntu.edu.sg
 -->
 
-<!--
-# 💬 Invited Talks
-- *2024.07* 
--->
+
