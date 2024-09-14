@@ -169,7 +169,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 💬 Invited Talks
 - 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
-- 2021.05: "Opportunities and Challenges of Recommender Systems"; Inviter: CCF·YEF·2021 
+- 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
 
 
 # 🔖 Services
