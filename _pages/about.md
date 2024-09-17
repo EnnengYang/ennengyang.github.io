@@ -28,17 +28,17 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
-- 2024.09: 🎉 Our paper about continual learning is accepted to TPAMI 2024.
-- 2024.07: 🎉 Our paper about sequential recommendation is accepted to RecSys 2024.
-- 2024.06: 🎉 Our paper about deconfounding recommendation is accepted to ACM TKDD 2024.
-- 2024.05: 🎉 Our paper about model merging is accepted to ICML 2024.
-- 2024.02: 🎉 Our paper about multi-task recommendation is accepted to ACM TKDD 2024.
-- 2024.01: 🎉 Our paper about model merging is accepted to ICLR 2024.
-- 2023.10: 🎉 Our paper about explanation recommendation is accepted to KBS 2023.
-- 2023.10: 🎉 Our paper about sequential recommendation is accepted to TKDE 2023.
-- 2023.09: 🎉 Our paper about dataset condensation is accepted to NeurIPS 2023.
-- 2023.07: 🎉 Our paper about flatness-aware continual learning is accepted to ICCV 2023.
-- 2023.04: 🎉 Our paper about next-baseket recommendation is accepted to IJCAI 2023.
+- 2024.09: Our paper about continual learning is accepted to TPAMI 2024.
+- 2024.07: Our paper about sequential recommendation is accepted to RecSys 2024.
+- 2024.06: Our paper about deconfounding recommendation is accepted to ACM TKDD 2024.
+- 2024.05: Our paper about model merging is accepted to ICML 2024.
+- 2024.02: Our paper about multi-task recommendation is accepted to ACM TKDD 2024.
+- 2024.01: Our paper about model merging is accepted to ICLR 2024.
+- 2023.10: Our paper about explanation recommendation is accepted to KBS 2023.
+- 2023.10: Our paper about sequential recommendation is accepted to TKDE 2023.
+- 2023.09: Our paper about dataset condensation is accepted to NeurIPS 2023.
+- 2023.07: Our paper about flatness-aware continual learning is accepted to ICCV 2023.
+- 2023.04: Our paper about next-basket recommendation is accepted to IJCAI 2023.
 
 <!-- 
 &nbsp;🎉 
@@ -48,7 +48,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # ✨ Repositories
 
-*Comments and contributions are welcome*. 👏
+Comments and contributions are welcome. 👏
 
 - [**Awesome-Model-Merging-Methods-Theories-Applications**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Model-Merging-Methods-Theories-Applications?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   This repository collects the latest research progress of Moedel Merging in Machine Learning. 
