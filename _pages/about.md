@@ -51,7 +51,7 @@ My research interests lie in machine learning and  recommender system. More spec
 Comments and contributions are welcome. 👏
 
 - [**Awesome-Model-Merging-Methods-Theories-Applications**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Model-Merging-Methods-Theories-Applications?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
-  This repository collects the latest research progress of Moedel Merging in Machine Learning. 
+  This repository collects the latest research progress of Model Merging in Machine Learning. 
 - [**Awesome-Forgetting-in-Deep-Learning**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   This repository collects the latest research progress of Catastrophic Forgetting in Deep Learning.
 
