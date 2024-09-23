@@ -70,7 +70,7 @@ Comments and contributions are welcome. 👏
   
 # 📝 Selected Preprints and Publications 
 
-<!-- -
+<!-- 
 <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCF-Rank]</a>
 <a href="https://www.caai.cn/index.php?s=/home/article/detail/id/3445.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCAI-Rank]</a>
 <a href="http://portal.core.edu.au/conf-ranks/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CORE-Rank (conf)]</a>
@@ -93,7 +93,13 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
   `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
+
+- Data Augmentation for Sequential Recommendation: A Survey \
+  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec)  \
+  Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
+<!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
+
 - A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
   `Arxiv 2023` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
