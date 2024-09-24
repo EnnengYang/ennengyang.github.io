@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hello! This is Enneng Yang. 
+# 👋 About Me
+Hello! This is Enneng Yang. 
 I'm currently a fourth-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
 
@@ -50,24 +51,10 @@ My research interests lie in machine learning and  recommender system. More spec
 # ✨ Repositories
 
 Comments and contributions are welcome. 
-
 - [**Awesome-Model-Merging-Methods-Theories-Applications**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Model-Merging-Methods-Theories-Applications?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   This repository collects the latest research on Model Merging in Machine Learning. 
 - [**Awesome-Forgetting-in-Deep-Learning**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   This repository collects the latest research on Catastrophic Forgetting in Deep Learning.
-
-<!-- 
-# 📝 Selected Preprints 
-
-- Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
-  `Arxiv 2024` <font color="red">Survery Paper</font> | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
-  **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
-  
-- A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
-  `Arxiv 2023` <font color="red">Survery Paper</font>  | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
-  Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
--->
-
   
 # 📝 Selected Preprints and Publications 
 
@@ -98,7 +85,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - Data Augmentation for Sequential Recommendation: A Survey \
   `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec)  \
   Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
-  
 <!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
 
 - A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
@@ -140,6 +126,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
  Guibing Guo, **Enneng Yang** $^{\dagger}$, Li Shen $^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
+
 - Continual Learning From a Stream of APIs \
   `TPAMI 2024` | (Just accepted) \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Nan Yin, Tongliang Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
@@ -175,6 +162,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 
 # 💬 Invited Talks
+
 - 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
 - 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
 
@@ -196,6 +184,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
   - Neural Computing and Applications (NCAA) 2024
   - ACM Transactions on Recommender Systems (TORS) 2022
+
+
 
 <!--
 # 💬 Contact
