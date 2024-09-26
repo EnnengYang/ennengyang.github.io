@@ -112,19 +112,19 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
 
 - AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning\
-  `AAAI 2023` (Oral) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26275)  [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
+  `AAAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26275)  [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
   **Enneng Yang**, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
 
 - Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation\
-  `IJCAI 2023` (Oral) | [**Paper**](https://www.ijcai.org/proceedings/2023/0268.pdf) \
+  `IJCAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2023/0268.pdf) \
   Yalin Yu $^{\ast}$, **Enneng Yang** $^{\ast}$,  Guibing Guo, Linying Jiang, Xingwei Wang.
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
-  `AAAI 2023` (Oral) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25540) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
+  `AAAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25540) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
  Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 - Discrete Trust-aware Matrix Factorization for Fast Recommendation\
-  `IJCAI 2019` (Oral) | [**Paper**](https://www.ijcai.org/proceedings/2019/0191.pdf) [**Code**](https://github.com/EnnengYang/DTMF)\
+  `IJCAI 2019` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2019/0191.pdf) [**Code**](https://github.com/EnnengYang/DTMF)\
  Guibing Guo, **Enneng Yang** $^{\dagger}$, Li Shen $^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
