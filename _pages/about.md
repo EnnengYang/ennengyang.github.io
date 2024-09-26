@@ -55,9 +55,12 @@ Comments and contributions are welcome.
   This repository collects the latest research on Model Merging in Machine Learning. 
 - [**Awesome-Forgetting-in-Deep-Learning**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   This repository collects the latest research on Catastrophic Forgetting in Deep Learning.
+  
+<!-- 
 - [**DA-CL-4Rec**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/KingGugu/DA-CL-4Rec) ([Yizhou Dang](https://kinggugu.github.io/) is the owner) \
   The repository collects the latest research progress on Data Augmentation and Contrastive Learning in Recommender Systems.
-  
+-->
+
 # 📝 Selected Preprints and Publications 
 
 <!-- 
