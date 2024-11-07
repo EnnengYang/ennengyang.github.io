@@ -29,6 +29,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2024.11: Our survey paper about continual learning is accepted to TPAMI 2024.
 - 2024.09: Our paper about continual learning is accepted to TPAMI 2024.
 - 2024.07: Our paper about sequential recommendation is accepted to RecSys 2024.
 - 2024.06: Our paper about deconfounding recommendation is accepted to ACM TKDD 2024.
@@ -93,7 +94,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
 
 - A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
-  `Arxiv 2023` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
+  `TPAMI 2024` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
   
 ## Conference Papers
@@ -175,6 +176,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - ACM TheWebConf (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
   - AAAI Conference on Artificial Intelligence (AAAI) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2024
