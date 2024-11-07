@@ -176,14 +176,14 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
-  - ACM TheWebConf (WWW) 2025
+  - InternationalWorld Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
   - AAAI Conference on Artificial Intelligence (AAAI) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2024
   - International Conference on Machine Learning (ICML) 2024
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024
   - AAAI Conference on Artificial Intelligence (AAAI) 2024
-  - The Web Conference (International World Wide Web Conference) (WWW) 2023
+  - InternationalWorld Wide Web Conference (WWW) 2023
   - ACM International Conference on Web Search and Data Mining (WSDM) 2023
     
 ## Journal Reviewers
