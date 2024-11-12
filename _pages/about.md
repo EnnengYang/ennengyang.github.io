@@ -161,6 +161,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 🏆 Honors and Awards
 
+- 2024: National Scholarship (Top 1%)
 - 2023: National Scholarship (Top 1%)
 - 2020: Tencent Rhino-Bird Elite Talent Training Program (51 People Worldwide)
 - 2019: National Scholarship (Top 1%)
