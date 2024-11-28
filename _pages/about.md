@@ -29,6 +29,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2024.11: Our paper about recommendation unlearning is accepted to TOIS 2024.
 - 2024.11: Our survey paper about forgetting in deep learning is accepted to TPAMI 2024.
 - 2024.09: Our paper about continual learning is accepted to TPAMI 2024.
 - 2024.07: Our paper about sequential recommendation is accepted to RecSys 2024.
@@ -133,8 +134,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
+  `TOIS 2024` | (Just accepted) \
+  Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
+  
 - Continual Learning From a Stream of APIs \
-  `TPAMI 2024` | (Just accepted) \
+  `TPAMI 2024` | [**Paper**](https://ieeexplore.ieee.org/iel8/34/4359286/10684743.pdf) \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Nan Yin, Tongliang Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
   
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
