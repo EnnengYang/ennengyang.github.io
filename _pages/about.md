@@ -135,7 +135,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | (Just accepted) \
+  `TOIS 2024` | (Just accepted) [**Code**](https://github.com/KingGugu/GFEraser) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - Continual Learning From a Stream of APIs \
