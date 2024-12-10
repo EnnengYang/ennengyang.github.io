@@ -29,6 +29,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2024.12: Our papers about LLMs fine-tunning and sequential recommendation are accepted to AAAI 2025.
 - 2024.11: Our paper about recommendation unlearning is accepted to TOIS 2024.
 - 2024.11: Our survey paper about forgetting in deep learning is accepted to TPAMI 2024.
 - 2024.09: Our paper about continual learning is accepted to TPAMI 2024.
@@ -97,8 +98,18 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
   `TPAMI 2024` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
-  
+
+<!--Just accepted -->
+<!-- [**Paper**]() [**Code**]()  -->
+
 ## Conference Papers
+- Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion\
+  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2405.11464) [**Code**]()  \
+  Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
+  
+- Augmenting Sequential Recommendation with Balanced Relevance and Diversity\
+  `AAAI 2025` | Just accepted \
+   Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
 - Representation Surgery for Multi-Task Model Merging\
   `ICML 2024` | [**Paper**](https://openreview.net/pdf?id=Sbl2keQEML) [**Code**](https://github.com/EnnengYang/RepresentationSurgery)  \
