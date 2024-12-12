@@ -103,7 +103,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- [**Paper**]() [**Code**]()  -->
 
 ## Conference Papers
-- Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion\
+- Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion \
   `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2405.11464)  \
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
