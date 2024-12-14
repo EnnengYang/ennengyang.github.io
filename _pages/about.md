@@ -108,7 +108,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity\
-  `AAAI 2025` | Just Accepted \
+  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
    Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
 - Representation Surgery for Multi-Task Model Merging\
