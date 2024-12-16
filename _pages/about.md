@@ -82,7 +82,9 @@ Comments and contributions are welcome.
 [comment]: <> (</div>)
 [comment]: <> (</div>)
 
+<!-- 
 $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding author
+-->
 
 ## Survey Papers
 
@@ -133,7 +135,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation\
   `IJCAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2023/0268.pdf) \
-  Yalin Yu $^{\ast}$, **Enneng Yang** $^{\ast}$,  Guibing Guo, Linying Jiang, Xingwei Wang.
+  Yalin Yu$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guibing Guo, Linying Jiang, Xingwei Wang.
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
   `AAAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25540) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
@@ -141,7 +143,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - Discrete Trust-aware Matrix Factorization for Fast Recommendation\
   `IJCAI 2019` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2019/0191.pdf) [**Code**](https://github.com/EnnengYang/DTMF)\
- Guibing Guo, **Enneng Yang** $^{\dagger}$, Li Shen $^{\dagger}$, Xiaochun Yang, Xiaodong He.
+ Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
 
