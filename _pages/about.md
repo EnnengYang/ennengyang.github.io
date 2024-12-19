@@ -195,6 +195,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - International Conference on Machine Learning (ICML) 2025
   - International World Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
   - AAAI Conference on Artificial Intelligence (AAAI) 2025
