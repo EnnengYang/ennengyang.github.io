@@ -29,6 +29,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2024.12: Our paper about multimodal recommendation is accepted to ICASSP 2025.
 - 2024.12: Our papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.
 - 2024.11: Our paper about recommendation unlearning is accepted to TOIS 2024.
 - 2024.11: Our survey paper about forgetting in deep learning is accepted to TPAMI 2024.
@@ -207,6 +208,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - ACM International Conference on Web Search and Data Mining (WSDM) 2023
     
 ## Journal Reviewers
+  - Transactions on Machine Learning Research (TMLR) 2024
   - IEEE Transactions on Services Computing (TSC) 2024
   - IEEE Transactions on Big Data (TBD) 2024
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
