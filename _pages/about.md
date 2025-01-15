@@ -189,7 +189,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 💬 Invited Talks
 
-- 2025.01: "Modle Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
+- 2025.01: "Model Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
 - 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
 - 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
 
