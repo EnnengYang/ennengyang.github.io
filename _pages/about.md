@@ -29,6 +29,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2025.01: Our papers about out-of-distribution recommendations are accepted to WWW 2025.
 - 2024.12: Our paper about multimodal recommendation is accepted to ICASSP 2025.
 - 2024.12: Our papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.
 - 2024.11: Our paper about recommendation unlearning is accepted to TOIS 2024.
@@ -106,6 +107,15 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- [**Paper**]() [**Code**]()  -->
 
 ## Conference Papers
+
+- Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
+  `WWW 2025` | [**Paper**]()  [**Code**](https://github.com/user683/DRGO) \
+  Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
+
+- Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation \
+  `WWW 2025` | [**Paper**](https://arxiv.org/pdf/2408.00490v1) [**Code**](https://github.com/user683/CausalDiffRec)\
+  Chu Zhao, **Enneng Yang**, Yuliang Liang, Pengxiang Lan, Yuting Liu, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
+  
 - Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion \
   `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2405.11464)  \
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
