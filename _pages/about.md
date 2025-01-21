@@ -190,11 +190,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 🏆 Honors and Awards
 
-- 2024: National Scholarship (Top 1%)
-- 2023: National Scholarship (Top 1%)
-- 2020: Tencent Rhino-Bird Elite Talent Training Program (51 People Worldwide)
-- 2019: National Scholarship (Top 1%)
-- 2017: National Scholarship (Top 1%)
+- 2025.01: Youth Talents Support Project - Doctoral Student Special Program (First Session)
+- 2024.10: National Scholarship (Top 1%)
+- 2023.10: National Scholarship (Top 1%)
+- 2020.05: Tencent Rhino-Bird Elite Talent Training Program (51 People Worldwide)
+- 2019.10: National Scholarship (Top 1%)
+- 2017.10: National Scholarship (Top 1%)
 
 
 # 💬 Invited Talks
