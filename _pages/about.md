@@ -109,7 +109,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
-  `WWW 2025` | [**Paper**]()  [**Code**](https://github.com/user683/DRGO) \
+  `WWW 2025` | [**Paper**]  [**Code**](https://github.com/user683/DRGO) \
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
 
 - Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation \
@@ -117,11 +117,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Pengxiang Lan, Yuting Liu, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
   
 - Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion \
-  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2405.11464)  \
+  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2405.11464)   [**Appendix**](https://arxiv.org/pdf/2405.11464)\
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity\
-  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
+  `AAAI 2025` | [**Paper**](https://arxiv.org/pdf/2412.08300) [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
    Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
 - Representation Surgery for Multi-Task Model Merging\
