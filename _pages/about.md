@@ -19,8 +19,11 @@ redirect_from:
 
 # 👋 About Me
 Hello! This is Enneng Yang. 
-I'm currently a fourth-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I had the privilege of working closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+I'm currently a fourth-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) of [Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
+<!-- 
+ and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
+-->
 
 My research interests lie in machine learning and  recommender system. More specifically, I focus on:
 - **Machine Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
