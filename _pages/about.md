@@ -112,7 +112,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
-  `WWW 2025` | [**Paper**]  [**Code**](https://github.com/user683/DRGO) \
+  `WWW 2025` | **Paper**  [**Code**](https://github.com/user683/DRGO) \
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
 
 - Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation \
