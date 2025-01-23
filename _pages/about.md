@@ -117,7 +117,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
 
 - Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation \
-  `WWW 2025` | [**Paper**](https://arxiv.org/pdf/2408.00490v1) [**Code**](https://github.com/user683/CausalDiffRec)\
+  `WWW 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2408.00490v1) [**Code**](https://github.com/user683/CausalDiffRec)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Pengxiang Lan, Yuting Liu, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
   
 - Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion \
