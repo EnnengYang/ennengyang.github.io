@@ -32,6 +32,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
 - 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.
 - 2024.12: Our one paper about multimodal recommendation is accepted to ICASSP 2025.
 - 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.
