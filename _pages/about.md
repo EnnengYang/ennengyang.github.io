@@ -32,7 +32,10 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+<!-- 
 - 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.
+ -->
+ 
 - 2025.01: Our one paper about medication recommendation is accepted to DASFAA 2025.
 - 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
 - 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.
@@ -164,10 +167,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+<!-- 
 - Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
   `TPAMI 2025` | Just accepted \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang, and Dacheng Tao.
-
+ -->
+ 
 - Continual Learning From a Stream of APIs \
   `TPAMI 2024` | [**Paper**](https://ieeexplore.ieee.org/iel8/34/4359286/10684743.pdf) \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Nan Yin, Tongliang Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
