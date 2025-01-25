@@ -32,6 +32,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2025.01: Our one paper about medication recommendation is accepted to DASFAA 2025.
 - 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
 - 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.
 - 2024.12: Our one paper about multimodal recommendation is accepted to ICASSP 2025.
@@ -40,7 +41,7 @@ My research interests lie in machine learning and  recommender system. More spec
 - 2024.11: Our one survey paper about forgetting in deep learning is accepted to TPAMI 2024.
 - 2024.09: Our one paper about continual learning is accepted to TPAMI 2024.
 - 2024.07: Our one paper about sequential recommendation is accepted to RecSys 2024.
-- 2024.06: Our one paper about deconfounding recommendation is accepted to ACM TKDD 2024.
+- 2024.06: Our one paper about de-confounding recommendation is accepted to ACM TKDD 2024.
 - 2024.05: Our one paper about model merging is accepted to ICML 2024.
 - 2024.02: Our one paper about multi-task recommendation is accepted to ACM TKDD 2024.
 - 2024.01: Our one paper about model merging is accepted to ICLR 2024.
