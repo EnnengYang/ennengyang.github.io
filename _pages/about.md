@@ -32,6 +32,7 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
+- 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.
 - 2025.01: Our one paper about medication recommendation is accepted to DASFAA 2025.
 - 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
 - 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.
@@ -163,13 +164,17 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
-- Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
-  Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
-  
+- Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
+  `TPAMI 2025` | Just accepted \
+  **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang, and Dacheng Tao.
+
 - Continual Learning From a Stream of APIs \
   `TPAMI 2024` | [**Paper**](https://ieeexplore.ieee.org/iel8/34/4359286/10684743.pdf) \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Nan Yin, Tongliang Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
+    
+- Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
+  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
+  Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
   `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/document/10285049) \
