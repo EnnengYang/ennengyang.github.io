@@ -32,18 +32,21 @@ My research interests lie in machine learning and  recommender system. More spec
 
 # 🔥 News
 
-- 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.
-- 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.
-- 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.
-- 2024.11: Our one paper about recommendation unlearning is accepted to TOIS 2024.
-- 2024.11: Our one survey paper about forgetting in deep learning is accepted to TPAMI 2024.
-- 2024.09: Our one paper about continual learning is accepted to TPAMI 2024.
-- 2024.05: Our one paper about model merging is accepted to ICML 2024.
-- 2024.01: Our one paper about model merging is accepted to ICLR 2024.
-- 2023.10: Our one paper about sequential recommendation is accepted to TKDE 2023.
-- 2023.09: Our one paper about dataset condensation is accepted to NeurIPS 2023.
-- 2023.07: Our one paper about flatness-aware continual learning is accepted to ICCV 2023.
-- 2023.04: Our one paper about next-basket recommendation is accepted to IJCAI 2023.
+<ul class="projects-box" id="projects-box">
+<li> 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
+<li> 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.</li>
+<li> 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.</li>
+<li> 2024.11: Our one paper about recommendation unlearning is accepted to TOIS 2024.</li>
+<li> 2024.11: Our one survey paper about forgetting in deep learning is accepted to TPAMI 2024.</li>
+<li> 2024.09: Our one paper about continual learning is accepted to TPAMI 2024.</li>
+<li> 2024.05: Our one paper about model merging is accepted to ICML 2024.</li>
+<li> 2024.01: Our one paper about model merging is accepted to ICLR 2024.</li>
+<li> 2023.10: Our one paper about sequential recommendation is accepted to TKDE 2023.</li>
+<li> 2023.09: Our one paper about dataset condensation is accepted to NeurIPS 2023.</li>
+<li> 2023.07: Our one paper about flatness-aware continual learning is accepted to ICCV 2023.</li>
+<li> 2023.04: Our one paper about next-basket recommendation is accepted to IJCAI 2023.</li>
+<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+</ul>
 
 <!-- 
 - 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
