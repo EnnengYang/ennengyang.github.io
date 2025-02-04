@@ -266,3 +266,21 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   </tbody>
  </table>
 -->
+
+
+<script>
+  let show = false;
+  document.querySelector('#projects-show').onclick = function() {
+    if (!show) {
+      document.querySelector('#projects-box').style.height = 'auto';
+      document.querySelector('#projects-box').style.paddingBottom = '20px';
+      document.querySelector('#projects-show-text').innerHTML = 'Less';
+      show = true;
+    } else {
+      show = false;
+      document.querySelector('#projects-box').style.height = '160px';
+      document.querySelector('#projects-box').style.paddingBottom = '0px';
+      document.querySelector('#projects-show-text').innerHTML = 'More';
+    }
+  }
+</script>
