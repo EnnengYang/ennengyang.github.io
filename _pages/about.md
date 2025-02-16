@@ -172,7 +172,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
-  `TPAMI 2025` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10874188) \
+  `TPAMI 2025` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10874188)  [**Code**](https://github.com/EnnengYang/Revisiting-Flatness-aware-Optimization-in-Continual-Learning-with-Orthogonal-Gradient-Projection)\
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang, and Dacheng Tao.
  
 - Continual Learning From a Stream of APIs \
