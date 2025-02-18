@@ -225,6 +225,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - International Conference on Machine Learning (ICML) 2025
   - International World Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
