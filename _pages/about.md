@@ -184,7 +184,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/document/10285049) \
+  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
   Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 
