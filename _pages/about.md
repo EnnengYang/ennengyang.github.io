@@ -173,7 +173,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - Symmetric Graph Contrastive Learning against Noisy Views for Recommendation \
- `TPAMI 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
+ `TOIS 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, and Xingwei Wang.
  
 - Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
