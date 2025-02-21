@@ -33,6 +33,7 @@ My research interests lie in machine learning and  recommender system. More spec
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
 <li> 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
 <li> 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.</li>
 <li> 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.</li>
@@ -171,6 +172,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- Symmetric Graph Contrastive Learning against Noisy Views for Recommendation \
+ `TPAMI 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
+  Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, and Xingwei Wang.
+ 
 - Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
   `TPAMI 2025` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10874188)  [**Code**](https://github.com/EnnengYang/Revisiting-Flatness-aware-Optimization-in-Continual-Learning-with-Orthogonal-Gradient-Projection)\
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang, and Dacheng Tao.
