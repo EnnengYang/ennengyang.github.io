@@ -33,6 +33,7 @@ My research interests lie in machine learning and  recommender system. More spec
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
 <li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
 <li> 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
 <li> 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.</li>
@@ -122,6 +123,14 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
+- Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
+  `SIGIR 2025` | [**Paper**]  [**Code**] \
+  Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
+  
+- Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
+  `SIGIR 2025` | [**Paper**]  [**Code**] \
+  Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
+  
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
   `WWW 2025` | [**Paper**](https://arxiv.org/pdf/2501.15555)  [**Code**](https://github.com/user683/DRGO) \
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
