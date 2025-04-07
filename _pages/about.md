@@ -124,11 +124,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | [**Paper**]  [**Code**](https://github.com/KingGugu/TTA4SR) \
+  `SIGIR 2025` | Just Accepted  [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` | [**Paper**]  [**Code**] \
+  `SIGIR 2025` | Just Accepted [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
