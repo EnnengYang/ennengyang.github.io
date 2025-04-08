@@ -124,7 +124,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | Just Accepted  [**Code**](https://github.com/KingGugu/TTA4SR) \
+  `SIGIR 2025` | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
