@@ -33,6 +33,7 @@ My research interests lie in machine learning and  recommender system. More spec
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.04: Our one paper about explainable recommendations is accepted to TOIS 2025.</li>
 <li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
 <li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
 <li> 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
@@ -181,6 +182,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- Preference Logical Reasoning with Preference Operators for Explainable Recommendations \
+ `TOIS 2025` | [**Paper**]  [**Code**](https://github.com/muzi1998/preference_operator)\
+  Fei Li, **Enneng Yang**g, Guibing Guo, Linying Jiang, Jianzhe Zhao, and Xingwei Wang.
+  
 - Symmetric Graph Contrastive Learning against Noisy Views for Recommendation \
  `TOIS 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, and Xingwei Wang.
