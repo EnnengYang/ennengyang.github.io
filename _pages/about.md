@@ -25,7 +25,7 @@ I'm currently a fourth-year Ph.D. student in Software College, [Northeastern Uni
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-My research interests lie in machine learning and  recommender system. More specifically, I focus on:
+My research interests lie in machine learning and recommender systems. More specifically, I focus on:
 - **Machine Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
 - **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
 
@@ -33,6 +33,7 @@ My research interests lie in machine learning and  recommender system. More spec
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
 <li> 2025.04: Our one paper about explainable recommendations is accepted to TOIS 2025.</li>
 <li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
 <li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
@@ -124,14 +125,18 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-- Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
-  Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
+- Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
+  `ACL 2025` | Just Accepted   \
+  Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
   `SIGIR 2025` | Just Accepted [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
+- Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
+  `SIGIR 2025` | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
+  Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
+
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
   `WWW 2025` | [**Paper**](https://arxiv.org/pdf/2501.15555)  [**Code**](https://github.com/user683/DRGO) \
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
@@ -183,8 +188,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - Preference Logical Reasoning with Preference Operators for Explainable Recommendations \
- `TOIS 2025` | [**Paper**]  [**Code**](https://github.com/muzi1998/preference_operator)\
-  Fei Li, **Enneng Yang**g, Guibing Guo, Linying Jiang, Jianzhe Zhao, and Xingwei Wang.
+ `TOIS 2025` | [**Paper**](https://dl.acm.org/doi/10.1145/3733596)  [**Code**](https://github.com/muzi1998/preference_operator)\
+  Fei Li, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, and Xingwei Wang.
   
 - Symmetric Graph Contrastive Learning against Noisy Views for Recommendation \
  `TOIS 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
@@ -209,11 +214,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 📖 Educations
 
-- 2024.03 - 2025.03: Visiting Ph.D. Student in [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
-- 2021.09 - 2025.07 (Expected): Ph.D. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- 2024.03 - 2025.03: Visiting Ph.D. Student at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+- 2021.09 - 2025.07 (Expected): Ph.D. Student at [Northeastern University, China](https://www.neu.edu.cn/).
 
 <!--
-- 2018.09 - 2021.07: M.S. Student in [Northeastern University, China](https://www.neu.edu.cn/).
+- 2018.09 - 2021.07: M.S. Student at [Northeastern University, China](https://www.neu.edu.cn/).
 -->
 
 
@@ -244,8 +249,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
-  - International Conference on Computer Vision (ICCV) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
+  - International Conference on Computer Vision (ICCV) 2025
   - International Conference on Machine Learning (ICML) 2025
   - International World Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
