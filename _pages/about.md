@@ -108,9 +108,9 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
-- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging
+- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging \
   `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2505.19892) [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
-  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen3 Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
+  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
   
 - Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
   `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
