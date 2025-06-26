@@ -34,6 +34,7 @@ My research interests lie in machine learning and recommender systems. More spec
 
 <ul class="projects-box" id="projects-box">
 <li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
+<li> 2025.05: Our one paper about model merging is accepted to ICML 2025.</li>
 <li> 2025.04: Our one paper about explainable recommendations is accepted to TOIS 2025.</li>
 <li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
 <li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
@@ -107,6 +108,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
+- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging
+  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2505.19892) [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
+  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen3 Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
+  
 - Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
   `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
@@ -128,6 +133,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
   `ACL 2025` | Just Accepted   \
   Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
+  
+- Representation Surgery in Model Merging with Probabilistic Modeling \
+  `ICML 2025` |[**Paper**](https://openreview.net/pdf?id=a02CH43z1G)  [**Code**](https://github.com/1998v7/ProbSurgery) \
+  Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
   `SIGIR 2025` | Just Accepted [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
