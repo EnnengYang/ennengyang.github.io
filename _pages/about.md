@@ -228,7 +228,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 📖 Educations
 
 - 2024.03 - 2025.03: Visiting Ph.D. Student at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
-- 2021.09 - 2025.07 (Expected): Ph.D. Student at [Northeastern University, China](https://www.neu.edu.cn/).
+- 2021.09 - 2025.06: Ph.D. Student at [Northeastern University, China](https://www.neu.edu.cn/).
 
 <!--
 - 2025.09 - : Postdoc Researcher at [Shenzhen Campus of Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/).
