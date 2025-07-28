@@ -18,16 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hello! This is Enneng Yang. 
-I'm currently a fourth-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) of [Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+Hello! This is Enneng Yang. I’m currently a Postdoc Researcher at [Shenzhen Campus of Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/), advised by [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home).
+Before that, I received the PhD degree (June 2025) from [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
+From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+
 
 <!-- 
+I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) of [Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/).
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-My research interests lie in machine learning and recommender systems. More specifically, I focus on:
-- **Machine Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
-- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
+My research interests lie in large language models, machine learning, and recommender systems. More specifically, I focus on:
+- **Large Language Model:** continual pretraining/finetuning, knowledge editing
+- **Machine Learning:** model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
+- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, OOD recommendation
 
 
 # 🔥 News
@@ -131,7 +135,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
-  `ACL 2025` | Just Accepted   \
+  `ACL 2025` | [**Paper**](https://aclanthology.org/2025.acl-long.646.pdf)   \
   Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
   
 - Representation Surgery in Model Merging with Probabilistic Modeling \
@@ -139,7 +143,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` | Just Accepted [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+  `SIGIR 2025` | [**Paper**](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
@@ -222,7 +226,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 
 # 📖 Educations
-
+- 2025.09 - 2028.09: Postdoc Researcher at [Shenzhen Campus of Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/).
 - 2024.03 - 2025.03: Visiting Ph.D. Student at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 - 2021.09 - 2025.07 (Expected): Ph.D. Student at [Northeastern University, China](https://www.neu.edu.cn/).
 
