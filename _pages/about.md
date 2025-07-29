@@ -143,11 +143,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` | [**Paper**](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+  `SIGIR 2025` (<font color="red">Oral</font>) | [**Paper**](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
+  `SIGIR 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
 
 - Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
