@@ -37,6 +37,7 @@ My research interests lie in large language models, machine learning, and recomm
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.09: Our two papers about continual model merging are accepted to NeurIPS 2025.</li>
 <li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
 <li> 2025.05: Our one paper about model merging is accepted to ICML 2025.</li>
 <li> 2025.04: Our one paper about explainable recommendations is accepted to TOIS 2025.</li>
@@ -82,7 +83,9 @@ Comments and contributions are welcome.
   This repository collects the latest research on Model Merging in Machine Learning. 
 - [**Awesome-Forgetting-in-Deep-Learning**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   This repository collects the latest research on Catastrophic Forgetting in Deep Learning.
-  
+- [**FusionBench**](https://github.com/tanganke/fusion_bench) [![](https://img.shields.io/github/stars/tanganke/fusion_bench?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/tanganke/fusion_bench) \
+  This repository integrates the latest model merging algorithm.
+
 <!-- 
 - [**DA-CL-4Rec**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/KingGugu/DA-CL-4Rec) ([Yizhou Dang](https://kinggugu.github.io/) is the owner) \
   The repository collects the latest research progress on Data Augmentation and Contrastive Learning in Recommender Systems.
@@ -110,7 +113,7 @@ Comments and contributions are welcome.
 $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding author
 -->
 
-## Survey Papers
+## Survey or Benchmark Papers
 
 - Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging \
   `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2505.19892) [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
@@ -132,8 +135,20 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!--Just accepted -->
 <!-- [**Paper**]() [**Code**]()  -->
 
+<!--
+- Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity \
+  `NeurIPS 2025` | Just accepted   \
+  **Enneng Yang**, Anke Tang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang.
+
+- Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging \
+  `NeurIPS 2025` | Just accepted   \
+  Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
+-->
+
 ## Conference Papers
 
+
+  
 - Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
   `ACL 2025` | [**Paper**](https://aclanthology.org/2025.acl-long.646.pdf)   \
   Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
