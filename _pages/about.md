@@ -135,19 +135,15 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!--Just accepted -->
 <!-- [**Paper**]() [**Code**]()  -->
 
-<!--
+## Conference Papers
+
 - Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity \
   `NeurIPS 2025` | Just accepted   \
   **Enneng Yang**, Anke Tang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang.
 
 - Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging \
-  `NeurIPS 2025` | Just accepted   \
+  `NeurIPS 2025` | Just accepted  [**Code**](https://github.com/tanganke/opcm) \
   Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
--->
-
-## Conference Papers
-
-
   
 - Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
   `ACL 2025` | [**Paper**](https://aclanthology.org/2025.acl-long.646.pdf)   \
@@ -278,6 +274,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - International Conference on Learning Representations (ICLR) 2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2026
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - International Conference on Computer Vision (ICCV) 2025
