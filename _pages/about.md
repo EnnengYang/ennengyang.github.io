@@ -115,21 +115,21 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging \
-  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2505.19892) [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
+- [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
+  `Arxiv 2025` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
   
-- Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
-  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
+- [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666) \
+  `Arxiv 2024` | [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
 
-- Data Augmentation for Sequential Recommendation: A Survey \
-  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec)  \
+- [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/pdf/2409.13545) \
+  `Arxiv 2024` | [**Code**](https://github.com/KingGugu/DA-CL-4Rec)  \
   Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
 <!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
 
-- A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
-  `TPAMI 2024` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
+- [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218) \
+  `TPAMI 2024` | [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
   Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
 
 <!--Just accepted -->
@@ -145,94 +145,94 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `NeurIPS 2025` | Just accepted  [**Code**](https://github.com/tanganke/opcm) \
   Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
   
-- Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models \
-  `ACL 2025` | [**Paper**](https://aclanthology.org/2025.acl-long.646.pdf)   \
+- [Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models](https://aclanthology.org/2025.acl-long.646.pdf) \
+  `ACL 2025`    \
   Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
   
-- Representation Surgery in Model Merging with Probabilistic Modeling \
-  `ICML 2025` |[**Paper**](https://openreview.net/pdf?id=a02CH43z1G)  [**Code**](https://github.com/1998v7/ProbSurgery) \
+- [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G) \
+  `ICML 2025` | [**Code**](https://github.com/1998v7/ProbSurgery) \
   Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
-- Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` (<font color="red">Oral</font>) | [**Paper**](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+- [Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) \
+  `SIGIR 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
-- Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2504.04843)  [**Code**](https://github.com/KingGugu/TTA4SR) \
+- [Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation](https://arxiv.org/pdf/2504.04843) \
+  `SIGIR 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
 
-- Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model \
-  `WWW 2025` | [**Paper**](https://arxiv.org/pdf/2501.15555)  [**Code**](https://github.com/user683/DRGO) \
+- [Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model](https://arxiv.org/pdf/2501.15555) \
+  `WWW 2025` | [**Code**](https://github.com/user683/DRGO) \
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
 
-- Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation \
-  `WWW 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2408.00490v1) [**Code**](https://github.com/user683/CausalDiffRec)\
+- [Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation](https://arxiv.org/pdf/2408.00490v1) \
+  `WWW 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/user683/CausalDiffRec)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Pengxiang Lan, Yuting Liu, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
   
-- Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion \
-  `AAAI 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2405.11464)   [**Appendix**](https://arxiv.org/pdf/2405.11464)\
+- [Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion](https://arxiv.org/pdf/2405.11464) \
+  `AAAI 2025` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2405.11464)\
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
-- Augmenting Sequential Recommendation with Balanced Relevance and Diversity\
-  `AAAI 2025` (<font color="red">Oral</font>) | [**Paper**](https://arxiv.org/pdf/2412.08300) [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
+- [Augmenting Sequential Recommendation with Balanced Relevance and Diversity](https://arxiv.org/pdf/2412.08300)\
+  `AAAI 2025` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
    Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
-- Representation Surgery for Multi-Task Model Merging\
-  `ICML 2024` | [**Paper**](https://openreview.net/pdf?id=Sbl2keQEML) [**Code**](https://github.com/EnnengYang/RepresentationSurgery)  \
+- [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf?id=Sbl2keQEML) \
+  `ICML 2024` | [**Code**](https://github.com/EnnengYang/RepresentationSurgery)  \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Guibing Guo, Xiaojun Chen, Xingwei Wang, Dacheng Tao.
 
-- AdaMerging: Adaptive Model Merging for Multi-Task Learning\
-  `ICLR 2024` | [**Paper**](https://openreview.net/pdf?id=nZP6NgD3QY) [**Code**](https://github.com/EnnengYang/AdaMerging)  \
+- [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/pdf?id=nZP6NgD3QY) \
+  `ICLR 2024` | [**Code**](https://github.com/EnnengYang/AdaMerging)  \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
 
-- An Efficient Dataset Condensation Plugin and Its Application to Continual Learning\
-  `NeurIPS 2023` | [**Paper**](https://openreview.net/pdf?id=Murj6wcjRw) [**Code**](https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin)  \
+- [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/pdf?id=Murj6wcjRw)\
+  `NeurIPS 2023` | [**Code**](https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin)  \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
 
-- Data Augmented Flatness-aware Gradient Projection for Continual Learning\
-  `ICCV 2023` | [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf)  [**Appendix**](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Data_Augmented_Flatness-aware_ICCV_2023_supplemental.pdf) [**Code**](https://github.com/EnnengYang/DFGP)   \
+- [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) \
+  `ICCV 2023` | [**Appendix**](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Data_Augmented_Flatness-aware_ICCV_2023_supplemental.pdf) [**Code**](https://github.com/EnnengYang/DFGP)   \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
 
-- AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning\
-  `AAAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26275)  [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
+- [AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26275) \
+  `AAAI 2023` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
   **Enneng Yang**, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
 
-- Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation\
-  `IJCAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2023/0268.pdf) \
+- [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation](https://www.ijcai.org/proceedings/2023/0268.pdf) \
+  `IJCAI 2023` (<font color="red">Oral</font>) \
   Yalin Yu$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guibing Guo, Linying Jiang, Xingwei Wang.
 
-- Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
-  `AAAI 2023` (<font color="red">Oral</font>) | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25540) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
+- [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25540) \
+  `AAAI 2023` (<font color="red">Oral</font>) | [**Code**](https://github.com/KingGugu/TiCoSeRec)\
  Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
-- Discrete Trust-aware Matrix Factorization for Fast Recommendation\
-  `IJCAI 2019` (<font color="red">Oral</font>) | [**Paper**](https://www.ijcai.org/proceedings/2019/0191.pdf) [**Code**](https://github.com/EnnengYang/DTMF)\
+- [Discrete Trust-aware Matrix Factorization for Fast Recommendation](https://www.ijcai.org/proceedings/2019/0191.pdf) \
+  `IJCAI 2019` (<font color="red">Oral</font>) | [**Code**](https://github.com/EnnengYang/DTMF)\
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
 
-- Preference Logical Reasoning with Preference Operators for Explainable Recommendations \
- `TOIS 2025` | [**Paper**](https://dl.acm.org/doi/10.1145/3733596)  [**Code**](https://github.com/muzi1998/preference_operator)\
+- [Preference Logical Reasoning with Preference Operators for Explainable Recommendations](https://dl.acm.org/doi/10.1145/3733596) \
+ `TOIS 2025` | [**Code**](https://github.com/muzi1998/preference_operator)\
   Fei Li, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, and Xingwei Wang.
   
-- Symmetric Graph Contrastive Learning against Noisy Views for Recommendation \
- `TOIS 2025` | [**Paper**](https://arxiv.org/pdf/2408.02691)  [**Code**](https://github.com/user683/SGCL)\
+- [Symmetric Graph Contrastive Learning against Noisy Views for Recommendation](https://arxiv.org/pdf/2408.02691) \
+ `TOIS 2025` | [**Code**](https://github.com/user683/SGCL)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, and Xingwei Wang.
  
-- Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection \
-  `TPAMI 2025` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10874188)  [**Code**](https://github.com/EnnengYang/Revisiting-Flatness-aware-Optimization-in-Continual-Learning-with-Orthogonal-Gradient-Projection)\
+- [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/abstract/document/10874188) \
+  `TPAMI 2025` | [**Code**](https://github.com/EnnengYang/Revisiting-Flatness-aware-Optimization-in-Continual-Learning-with-Orthogonal-Gradient-Projection)\
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang, and Dacheng Tao.
  
-- Continual Learning From a Stream of APIs \
-  `TPAMI 2024` | [**Paper**](https://ieeexplore.ieee.org/iel8/34/4359286/10684743.pdf) \
+- [Continual Learning From a Stream of APIs](https://ieeexplore.ieee.org/iel8/34/4359286/10684743.pdf) \
+  `TPAMI 2024`  \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Nan Yin, Tongliang Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
     
-- Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
+- [Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences](https://dl.acm.org/doi/pdf/10.1145/3706633) \
+  `TOIS 2024` | [**Code**](https://github.com/KingGugu/GFEraser) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
-- TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec)\
+- [TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation](https://ieeexplore.ieee.org/document/10285049) \
+  `TKDE 2023` | [**Code**](https://github.com/KingGugu/TiCoSeRec)\
   Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 
