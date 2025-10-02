@@ -22,16 +22,15 @@ Hello! This is Enneng Yang. I’m currently a Postdoc Researcher at [Shenzhen Ca
 Before that, I received the PhD degree (June 2025) from [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
 From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
+My research interests lie in large language models, machine learning, and recommender systems. More specifically, I focus on:
+- **Large Language Model:** continual pretraining/finetuning, knowledge editing
+- **Machine Learning:** model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
+- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, OOD recommendation
 
 <!-- 
 I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) of [Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/).
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
-
-My research interests lie in large language models, machine learning, and recommender systems. More specifically, I focus on:
-- **Large Language Model:** continual pretraining/finetuning, knowledge editing
-- **Machine Learning:** model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
-- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, OOD recommendation
 
 
 # 🔥 News
@@ -58,16 +57,6 @@ My research interests lie in large language models, machine learning, and recomm
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
 
-<!-- 
-- 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
-- 2025.01: Our one paper about medication recommendation is accepted to DASFAA 2025. 
-- 2024.12: Our one paper about multimodal recommendation is accepted to ICASSP 2025.
-- 2024.07: Our one paper about sequential recommendation is accepted to RecSys 2024.
-- 2024.06: Our one paper about de-confounding recommendation is accepted to ACM TKDD 2024.
-- 2024.02: Our one paper about multi-task recommendation is accepted to ACM TKDD 2024.
-- 2023.10: Our one paper about explanation recommendation is accepted to KBS 2023.
--->
-
 
 <!-- 
 &nbsp;🎉 
@@ -85,11 +74,6 @@ Comments and contributions are welcome.
   This repository collects the latest research on Catastrophic Forgetting in Deep Learning.
 - [**FusionBench**](https://github.com/tanganke/fusion_bench) [![](https://img.shields.io/github/stars/tanganke/fusion_bench?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/tanganke/fusion_bench) \
   This repository integrates the latest model merging algorithm.
-
-<!-- 
-- [**DA-CL-4Rec**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/KingGugu/DA-CL-4Rec) ([Yizhou Dang](https://kinggugu.github.io/) is the owner) \
-  The repository collects the latest research progress on Data Augmentation and Contrastive Learning in Recommender Systems.
--->
 
 # 📝 Selected Preprints and Publications 
 
@@ -237,10 +221,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 
-# 🔖 Services
-
-- **Conference Reviewers**: CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
-- **Journal Reviewers**: TMLR 2024, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
 
 # 📖 Educations
 
@@ -270,7 +250,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2017.10: National Scholarship (Top 1%)
 
 
+# 🔖 Services
 
+- **Conference Reviewers**: CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
+- **Journal Reviewers**: TMLR 2024, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
   
 <!--
 ## Conference Reviewers
@@ -301,7 +284,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 <!--
 # 💬 Invited Talks
-
 - 2025.01: "Model Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
 - 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
 - 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
@@ -310,10 +292,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 <!--
 # 💬 Contact
-- Address: Engineering building, China School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University(SYSU), Guangming, Shenzhen, Guangdong
-- Address: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
-- Address: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798. (Current Address)
-- Email: ennengyang(at)stumail.neu.edu.cn / n2308949l(at)e.ntu.edu.sg
+- Address: Shenzhen Campus of Sun Yat-sen University, Guangming, Shenzhen, Guangdong
+- Email: ennengyang(at)qq.com / yangenn(at)mail.sysu.edu.cn
 -->
 
 <!--
