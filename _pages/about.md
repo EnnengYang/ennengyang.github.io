@@ -237,6 +237,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 
+# 🔖 Services
+
+- **Conference Reviewers**: CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
+- **Journal Reviewers**: TMLR 2024, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
+
 # 📖 Educations
 
 - 2024.03 - 2025.03: Visiting Ph.D. Student at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
@@ -265,16 +270,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2017.10: National Scholarship (Top 1%)
 
 
-# 💬 Invited Talks
 
-- 2025.01: "Model Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
-- 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
-- 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
-
-
-# 🔖 Services
-
+  
+<!--
 ## Conference Reviewers
+  - ○Conference on Computer Vision and Pattern Recognition (CVPR) 2026
   - International Conference on Learning Representations (ICLR) 2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2026
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
@@ -297,13 +297,22 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
   - Neural Computing and Applications (NCAA) 2024
   - ACM Transactions on Recommender Systems (TORS) 2022
+-->
 
+<!--
+# 💬 Invited Talks
+
+- 2025.01: "Model Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
+- 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
+- 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
+-->
 
 
 <!--
 # 💬 Contact
-- Address 1: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
-- Address 2: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798. (Current Address)
+- Address: Engineering building, China School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University(SYSU), Guangming, Shenzhen, Guangdong
+- Address: Northeastern University, No.195, Chuangxin Road, Hunnan District, Shenyang City, Liaoning Province, P.R.China, 110169.
+- Address: Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798. (Current Address)
 - Email: ennengyang(at)stumail.neu.edu.cn / n2308949l(at)e.ntu.edu.sg
 -->
 
