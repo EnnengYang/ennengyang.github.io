@@ -134,6 +134,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 <!--Just accepted -->
 <!-- [**Paper**]() [**Code**]()  -->
+<!-- (<font color="red">Oral</font>) -->
 
 ## Conference Papers
 
@@ -154,11 +155,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
 - [Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3726302.3729944) \
-  `SIGIR 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+  `SIGIR 2025` (Oral) | [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, Yizhou Dang, **Enneng Yang**, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
   
 - [Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation](https://arxiv.org/pdf/2504.04843) \
-  `SIGIR 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/KingGugu/TTA4SR) \
+  `SIGIR 2025`(Oral) | [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, Yuting Liu, **Enneng Yang**, Minhan Huang, Guibing Guo, Jianzhe Zhao and Xingwei Wang.
 
 - [Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model](https://arxiv.org/pdf/2501.15555) \
@@ -166,15 +167,15 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
 
 - [Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation](https://arxiv.org/pdf/2408.00490v1) \
-  `WWW 2025` (<font color="red">Oral</font>) | [**Code**](https://github.com/user683/CausalDiffRec)\
+  `WWW 2025` (Oral) | [**Code**](https://github.com/user683/CausalDiffRec)\
   Chu Zhao, **Enneng Yang**, Yuliang Liang, Pengxiang Lan, Yuting Liu, Jianzhe Zhao, Guibing Guo, Xingwei Wang.
   
 - [Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion](https://arxiv.org/pdf/2405.11464) \
-  `AAAI 2025` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2405.11464)\
+  `AAAI 2025` (Oral) | [**Appendix**](https://arxiv.org/pdf/2405.11464)\
   Pengxiang Lan, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
   
 - [Augmenting Sequential Recommendation with Balanced Relevance and Diversity](https://arxiv.org/pdf/2412.08300)\
-  `AAAI 2025` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
+  `AAAI 2025` (Oral) | [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
    Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
 - [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf?id=Sbl2keQEML) \
@@ -194,19 +195,19 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Enneng Yang**, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang.
 
 - [AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26275) \
-  `AAAI 2023` (<font color="red">Oral</font>) | [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
+  `AAAI 2023` (Oral) | [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
   **Enneng Yang**, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
 
 - [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation](https://www.ijcai.org/proceedings/2023/0268.pdf) \
-  `IJCAI 2023` (<font color="red">Oral</font>) \
+  `IJCAI 2023` (Oral) \
   Yalin Yu$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guibing Guo, Linying Jiang, Xingwei Wang.
 
 - [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25540) \
-  `AAAI 2023` (<font color="red">Oral</font>) | [**Code**](https://github.com/KingGugu/TiCoSeRec)\
+  `AAAI 2023` (Oral) | [**Code**](https://github.com/KingGugu/TiCoSeRec)\
  Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
 - [Discrete Trust-aware Matrix Factorization for Fast Recommendation](https://www.ijcai.org/proceedings/2019/0191.pdf) \
-  `IJCAI 2019` (<font color="red">Oral</font>) | [**Code**](https://github.com/EnnengYang/DTMF)\
+  `IJCAI 2019` (Oral)| [**Code**](https://github.com/EnnengYang/DTMF)\
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
