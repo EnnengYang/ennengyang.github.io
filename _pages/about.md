@@ -141,8 +141,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `NeurIPS 2025` | Just accepted   \
   **Enneng Yang**, Anke Tang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang.
 
-- Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging \
-  `NeurIPS 2025` | Just accepted  [**Code**](https://github.com/tanganke/opcm) \
+- [Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522) \
+  `NeurIPS 2025` | [**Code**](https://github.com/tanganke/opcm) \
   Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
   
 - [Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models](https://aclanthology.org/2025.acl-long.646.pdf) \
