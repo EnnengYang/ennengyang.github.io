@@ -196,7 +196,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
-- [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging] \
+- Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging \
  `TPAMI 2025` | [**Code**](https://github.com/tanganke/fusion_bench/tree/main/fusion_bench/method/sparse_we_moe)\
   Li Shen, Anke Tang, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Guibing Guo, Yong Luo$^{\dagger}$, Lefei Zhang, Xiaochun Cao, Bo Du$^{\dagger}$, and Dacheng Tao.
   
