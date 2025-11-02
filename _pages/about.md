@@ -123,11 +123,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-- Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity \
+- [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/pdf?id=zD5cUX67b9) \
   `NeurIPS 2025` | [**Code**](https://github.com/EnnengYang/DOP)  \
   **Enneng Yang**, Anke Tang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang.
 
-- [Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522) \
+- [Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://openreview.net/pdf?id=rdGMyTPhui) \
   `NeurIPS 2025` | [**Code**](https://github.com/tanganke/opcm) \
   Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
   
