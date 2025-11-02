@@ -36,6 +36,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.10: Our one paper about model merging is accepted to TPAMI 2025.</li>
 <li> 2025.09: Our two papers about continual model merging are accepted to NeurIPS 2025.</li>
 <li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
 <li> 2025.05: Our one paper about model merging is accepted to ICML 2025.</li>
@@ -195,7 +196,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
-
+- [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging] \
+ `TPAMI 2025` | [**Code**](https://github.com/tanganke/fusion_bench/tree/main/fusion_bench/method/sparse_we_moe)\
+  Li Shen, Anke Tang, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Guibing Guo, Yong Luo$^{\dagger}$, Lefei Zhang, Xiaochun Cao, Bo Du$^{\dagger}$, and Dacheng Tao.
+  
 - [Preference Logical Reasoning with Preference Operators for Explainable Recommendations](https://dl.acm.org/doi/10.1145/3733596) \
  `TOIS 2025` | [**Code**](https://github.com/muzi1998/preference_operator)\
   Fei Li, **Enneng Yang**, Guibing Guo, Linying Jiang, Jianzhe Zhao, and Xingwei Wang.
