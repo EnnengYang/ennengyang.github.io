@@ -32,10 +32,11 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-
+<!-- 
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.11: Our one paper about long-sequence recommendation is accepted to AAAI 2026.</li>
 <li> 2025.10: Our one paper about model merging is accepted to TPAMI 2025.</li>
 <li> 2025.09: Our two papers about continual model merging are accepted to NeurIPS 2025.</li>
 <li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
@@ -57,7 +58,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 <li> 2023.04: Our one paper about next-basket recommendation is accepted to IJCAI 2023.</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
-
+-->
 
 <!-- 
 &nbsp;🎉 
@@ -122,6 +123,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- (<font color="red">Oral</font>) -->
 
 ## Conference Papers
+
+<!-- 
+- [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation] \
+  `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
+  Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
+-->
 
 - [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/pdf?id=zD5cUX67b9) \
   `NeurIPS 2025` | [**Code**](https://github.com/EnnengYang/DOP)  \
@@ -196,7 +203,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
 
 ## Journal Papers
-- Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging \
+- [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging](https://www.computer.org/csdl/journal/tp/5555/01/11230232/2bqyGYH5Hby) \
  `TPAMI 2025` | [**Code**](https://github.com/tanganke/fusion_bench/tree/main/fusion_bench/method/sparse_we_moe)\
   Li Shen, Anke Tang, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Guibing Guo, Yong Luo$^{\dagger}$, Lefei Zhang, Xiaochun Cao, Bo Du$^{\dagger}$, and Dacheng Tao.
   
