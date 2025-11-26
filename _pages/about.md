@@ -36,6 +36,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2025.11: Our one paper about model merging benchmark is accepted to JMLR 2025.</li>
 <li> 2025.11: Our one paper about long-sequence recommendation is accepted to AAAI 2026.</li>
 <li> 2025.10: Our one paper about model merging is accepted to TPAMI 2025.</li>
 <li> 2025.09: Our two papers about continual model merging are accepted to NeurIPS 2025.</li>
@@ -101,6 +102,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
+ <!-- 
+- [FusionBench: A Comprehensive Benchmark of Deep Model Fusion]() \
+  `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
+  Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
+-->
+
 - [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
   `Arxiv 2025` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
@@ -125,7 +132,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 <!-- 
-- [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation] \
+- [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation]() \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
 -->
