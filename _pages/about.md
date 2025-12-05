@@ -32,7 +32,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-<!-- 
+
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
@@ -59,7 +59,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 <li> 2023.04: Our one paper about next-basket recommendation is accepted to IJCAI 2023.</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
--->
+
 
 <!-- 
 &nbsp;🎉 
@@ -102,13 +102,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-<!-- 
-  - [FusionBench: A Comprehensive Benchmark of Deep Model Fusion]() \
+  - [FusionBench: A Comprehensive Benchmark of Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
   `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
   Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
--->
 
-- [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
+- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
   `Arxiv 2025` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
   
@@ -131,11 +129,9 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-<!-- 
 - [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation]() \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
--->
 
 - [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/pdf?id=zD5cUX67b9) \
   `NeurIPS 2025` | [**Code**](https://github.com/EnnengYang/DOP)  \
