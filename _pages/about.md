@@ -102,7 +102,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-  - [FusionBench: A Comprehensive Benchmark of Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
+- [FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
   `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
   Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
 
