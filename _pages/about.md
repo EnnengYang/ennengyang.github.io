@@ -32,8 +32,10 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
+🔥 <font color="red"> Our team is seeking self-motivated students to join research on LLMs, continual learning, and model merging, with the goal of publishing high-quality academic papers. If interested, please email me your resume and transcript. </font>
 
-# 🔥 News
+
+# 👏 News
 
 <ul class="projects-box" id="projects-box">
 <li> 2025.11: Our one paper about model merging benchmark is accepted to JMLR 2025.</li>
@@ -66,6 +68,8 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 &nbsp;🎓 
 &nbsp;🏅
 &nbsp;👏
+&nbsp;📰
+&nbsp;🌟
 -->
 
 # ✨ Repositories
