@@ -32,7 +32,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-🔥 <font color="red"> Our team is seeking self-motivated students to join research on LLMs, continual learning, and model merging, with the goal of publishing high-quality academic papers. If interested, please email me your resume and transcript. </font>
+🔥 <font color="red"> Our team is seeking self-motivated students to join research on LLMs, continual learning, and model merging, with the goal of publishing high-quality academic papers. If interested, please email me your resume. </font>
 
 
 # 👏 News
