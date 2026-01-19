@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hello! This is Enneng Yang. I’m currently a Postdoc Researcher at Shenzhen Campus of [Sun Yat-sen University, China](https://www.sysu.edu.cn/), advised by [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home).
+Hello! This is Enneng Yang. I’m currently a Postdoctoral Fellow at Shenzhen Campus of [Sun Yat-sen University, China](https://www.sysu.edu.cn/), advised by [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home).
 Before that, I received the PhD degree (June 2025) from [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
 From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
