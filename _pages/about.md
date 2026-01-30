@@ -38,6 +38,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2026.01: Our two papers about model merging are accepted to ICLR 2026.</li>
 <li> 2025.12: Our one paper about model merging survey is accepted to CSUR 2025.</li>
 <li> 2025.11: Our one paper about model merging benchmark is accepted to JMLR 2025.</li>
 <li> 2025.11: Our one paper about long-sequence recommendation is accepted to AAAI 2026.</li>
@@ -106,7 +107,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 -->
 
 ## Survey or Benchmark Papers
-  
+
+- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
+  `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
+  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
+
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666) \
   `CSUR 2025` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
@@ -114,10 +119,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
   `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
   Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
-
-- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
-  `Arxiv 2025` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
-  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
 
 - [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/pdf/2409.13545) \
   `Arxiv 2024` | [**Repository**](https://github.com/KingGugu/DA-CL-4Rec)  \
@@ -133,6 +134,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- (<font color="red">Oral</font>) -->
 
 ## Conference Papers
+
+- MergOPT: A Merge-Aware Optimizer for Robust Model Merging \
+  `ICLR 2026` | Just accepted \
+  **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Li Shen, Xiaochun Cao.
 
 - [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation]() \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
