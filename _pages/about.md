@@ -139,7 +139,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICLR 2026` | Just accepted \
   **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Li Shen, Xiaochun Cao.
 
-- [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation]() \
+- Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
 
@@ -276,8 +276,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 🔖 Services
 
-- **Conference Reviewers**: CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
-- **Journal Reviewers**: TMLR 2024, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
+- **Conference Reviewers**: ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
+- **Journal Reviewers**: EAAI 2025, ML 2025, TMLR 2025, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
   
 <!--
 ## Conference Reviewers
