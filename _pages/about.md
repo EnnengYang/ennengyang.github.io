@@ -138,7 +138,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/pdf?id=C21rz8mo65) \
   `ICLR 2026` | Just accepted \
-  **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Li Shen, Xiaochun Cao.
+  **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
 
 - Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
