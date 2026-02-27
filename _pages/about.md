@@ -23,7 +23,7 @@ Before that, I received the PhD degree (June 2025) from [Northeastern University
 From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
 
 My research interests lie in large language models, machine learning, and recommender systems. More specifically, I focus on:
-- **Large Language Model:** continual pretraining/finetuning, knowledge editing
+- **Large Language Model:** continual pretraining/finetuning, LLM self-evolution, knowledge editing
 - **Machine Learning:** model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
 - **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, OOD recommendation
 
@@ -109,12 +109,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892) \
+- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/pdf?id=Me0n0iESJY) \
   `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
 
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666) \
-  `CSUR 2025` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
+  `CSUR 2026` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
   
 - [FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
@@ -136,7 +136,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-- MergOPT: A Merge-Aware Optimizer for Robust Model Merging \
+- [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/pdf?id=C21rz8mo65) \
   `ICLR 2026` | Just accepted \
   **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Li Shen, Xiaochun Cao.
 
@@ -218,8 +218,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
-- Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation \
-  `TPAMI 2026` | Just accepted \
+- [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565) \
+  `TPAMI 2026` | [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, **Enneng Yang**, Yuting Liu, Jianzhe Zhao, Xingwei Wang, and Guibing Guo.
 
 - [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging](https://www.computer.org/csdl/journal/tp/5555/01/11230232/2bqyGYH5Hby) \
