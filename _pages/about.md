@@ -61,10 +61,12 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 <li> 2023.10: Our paper about sequential recommendation is accepted to TKDE 2023.</li>
 <li> 2023.09: Our paper about dataset condensation is accepted to NeurIPS 2023.</li>
 <li> 2023.07: Our paper about flatness-aware continual learning is accepted to ICCV 2023.</li>
-<li> 2023.04: Our paper about next-basket recommendation is accepted to IJCAI 2023.</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
 
+<!-- 
+<li> 2023.04: Our paper about next-basket recommendation is accepted to IJCAI 2023.</li>
+-->
 
 <!-- 
 &nbsp;🎉 
@@ -204,17 +206,26 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `AAAI 2023` (Oral) | [**Appendix**](https://arxiv.org/pdf/2211.15055)  [**Code**](https://github.com/EnnengYang/AdaTask)  \
   **Enneng Yang**, Junwei Pan, Ximei Wang, Haibin Yu, Li Shen, Xihua Chen, Lei Xiao, Jie Jiang, Guibing Guo.
 
-- [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation](https://www.ijcai.org/proceedings/2023/0268.pdf) \
-  `IJCAI 2023` (Oral) \
-  Yalin Yu$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guibing Guo, Linying Jiang, Xingwei Wang.
 
 - [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/25540) \
   `AAAI 2023` (Oral) | [**Code**](https://github.com/KingGugu/TiCoSeRec)\
  Yizhou Dang, **Enneng Yang**, Guibing Guo, Linying Jiang, Xingwei Wang, Xiaoxiao Xu, Qinghui Sun, Hong Liu.
 
+
+<!--
+- [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation](https://www.ijcai.org/proceedings/2023/0268.pdf) \
+  `IJCAI 2023` (Oral) \
+  Yalin Yu$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guibing Guo, Linying Jiang, Xingwei Wang.
+
+-->
+
+<!--
 - [Discrete Trust-aware Matrix Factorization for Fast Recommendation](https://www.ijcai.org/proceedings/2019/0191.pdf) \
   `IJCAI 2019` (Oral)| [**Code**](https://github.com/EnnengYang/DTMF)\
  Guibing Guo, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*), Li Shen$^{\dagger}$, Xiaochun Yang, Xiaodong He.
+
+-->
+
 
 ## Journal Papers
 
