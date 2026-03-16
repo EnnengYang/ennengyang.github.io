@@ -40,7 +40,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 <ul class="projects-box" id="projects-box">
 <li> 2026.02: Our paper about sequential recommendation is accepted to TPAMI 2026.</li>
 <li> 2026.01: Our two papers about model merging are accepted to ICLR 2026.</li>
-<li> 2025.12: Our paper about model merging survey is accepted to CSUR 2025.</li>
+<li> 2025.12: Our paper about model merging survey is accepted to ACM Computing Surveys (CSUR) 2026.</li>
 <li> 2025.11: Our paper about model merging benchmark is accepted to JMLR 2025.</li>
 <li> 2025.11: Our paper about long-sequence recommendation is accepted to AAAI 2026.</li>
 <li> 2025.10: Our paper about model merging is accepted to TPAMI 2025.</li>
