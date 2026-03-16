@@ -111,7 +111,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/pdf?id=Me0n0iESJY) \
+- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/forum?id=Me0n0iESJY) \
   `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
 
@@ -138,7 +138,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-- [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/pdf?id=C21rz8mo65) \
+- [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
   `ICLR 2026` | Just accepted \
   **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
 
@@ -146,11 +146,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
 
-- [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/pdf?id=zD5cUX67b9) \
+- [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/forum?id=zD5cUX67b9) \
   `NeurIPS 2025` | [**Code**](https://github.com/EnnengYang/DOP)  \
   **Enneng Yang**, Anke Tang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang.
 
-- [Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://openreview.net/pdf?id=rdGMyTPhui) \
+- [Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://openreview.net/forum?id=rdGMyTPhui) \
   `NeurIPS 2025` | [**Code**](https://github.com/tanganke/opcm) \
   Anke Tang,  **Enneng Yang**, Li Shen, Yong Luo, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
   
@@ -158,7 +158,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ACL 2025`    \
   Haoyu Xu, Pengxiang Lan, **Enneng Yang**, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.
   
-- [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G) \
+- [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/forum?id=a02CH43z1G) \
   `ICML 2025` | [**Code**](https://github.com/1998v7/ProbSurgery) \
   Qi Wei, Shuo He, **Enneng Yang**, Tingcong Liu, Haobo Wang, Lei Feng, Bo An.
   
@@ -186,15 +186,15 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `AAAI 2025` (Oral) | [**Appendix**](https://arxiv.org/pdf/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
    Yizhou Dang, Jiahui Zhang, Yuting Liu, **Enneng Yang**, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang.
 
-- [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf?id=Sbl2keQEML) \
+- [Representation Surgery for Multi-Task Model Merging](https://openreview.net/forum?id=Sbl2keQEML) \
   `ICML 2024` | [**Code**](https://github.com/EnnengYang/RepresentationSurgery)  \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Guibing Guo, Xiaojun Chen, Xingwei Wang, Dacheng Tao.
 
-- [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/pdf?id=nZP6NgD3QY) \
+- [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/forum?id=nZP6NgD3QY) \
   `ICLR 2024` | [**Code**](https://github.com/EnnengYang/AdaMerging)  \
   **Enneng Yang**, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao.
 
-- [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/pdf?id=Murj6wcjRw)\
+- [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/forum?id=Murj6wcjRw)\
   `NeurIPS 2023` | [**Code**](https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin)  \
   **Enneng Yang**, Li Shen, Zhenyi Wang, Tongliang Liu, Guibing Guo.
 
