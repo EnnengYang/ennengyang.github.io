@@ -139,10 +139,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Conference Papers
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
-  `ICLR 2026` | Just accepted \
+  `ICLR 2026`  \
   **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
 
-- Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation \
+- [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38531) \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
 
