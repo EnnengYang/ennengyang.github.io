@@ -38,6 +38,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li> 2026.04: Our paper about POI recommendation is accepted to SIGIR 2026.</li>
 <li> 2026.02: Our paper about sequential recommendation is accepted to TPAMI 2026.</li>
 <li> 2026.01: Our two papers about model merging are accepted to ICLR 2026.</li>
 <li> 2025.12: Our paper about model merging survey is accepted to ACM Computing Surveys (CSUR) 2026.</li>
@@ -138,6 +139,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
+- [Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations] \
+  `SIGIR 2026`  \
+  Pengxiang Lan, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Hai Zhao.
+  
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
   `ICLR 2026`  \
   **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
@@ -294,7 +299,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 - **Conference Reviewers**: ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ICML 2025, WWW 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, KDD 2024, AAAI 2024, WWW 2023, WSDM 2023
-- **Journal Reviewers**: EAAI 2025, ML 2025, TMLR 2025, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
+- **Journal Reviewers**: TKDE 2026, EAAI 2025, ML 2025, TMLR 2025, TSC 2024, TBD 2024, TCSVT 2024, NCAA 2024, TORS 2022
   
 <!--
 ## Conference Reviewers
