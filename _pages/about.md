@@ -144,7 +144,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
   Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
 
-- Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations] \
+- Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations \
   `SIGIR 2026` | [**Code**](https://github.com/LanPangxiang/MPDC2025) \
   Pengxiang Lan, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Hai Zhao.
   
