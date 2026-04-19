@@ -112,14 +112,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
-- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/forum?id=Me0n0iESJY) \
-  `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
-  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
-
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666) \
   `ACM Computing Surveys 2026` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
-  
+
 - [FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
   `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
   Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
@@ -139,14 +135,19 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
-- [Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations] \
-  `SIGIR 2026`  \
+
+- [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
+  `ICLR 2026`| [**Code**](https://github.com/Yangqun123456/MergOPT)  \
+  **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
+  
+- [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/forum?id=Me0n0iESJY) \
+  `ICLR 2026` | [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
+  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
+
+- Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations] \
+  `SIGIR 2026` | [**Code**](https://github.com/LanPangxiang/MPDC2025) \
   Pengxiang Lan, **Enneng Yang**, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Hai Zhao.
   
-- [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
-  `ICLR 2026`  \
-  **Enneng Yang**, Qun Yang, Peng Wang, Anke Tang, Guibing Guo, Xiaochun Cao, Li Shen.
-
 - [Interest-Shift-Aware Logical Reasoning for Efficient Long-Sequence Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38531) \
   `AAAI 2026` | [**Code**](https://github.com/muzi1998/ELECTOR) \
   Fei Li, Qingyun Gao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
