@@ -38,30 +38,32 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
-<li> 2026.04: Our paper about POI recommendation is accepted to SIGIR 2026.</li>
-<li> 2026.02: Our paper about sequential recommendation is accepted to TPAMI 2026.</li>
-<li> 2026.01: Our two papers about model merging are accepted to ICLR 2026.</li>
-<li> 2025.12: Our paper about model merging survey is accepted to ACM Computing Surveys (CSUR) 2026.</li>
-<li> 2025.11: Our paper about model merging benchmark is accepted to JMLR 2025.</li>
-<li> 2025.11: Our paper about long-sequence recommendation is accepted to AAAI 2026.</li>
-<li> 2025.10: Our paper about model merging is accepted to TPAMI 2025.</li>
-<li> 2025.09: Our two papers about continual model merging are accepted to NeurIPS 2025.</li>
-<li> 2025.05: Our paper about knowledge editing is accepted to ACL (main) 2025.</li>
-<li> 2025.05: Our paper about model merging is accepted to ICML 2025.</li>
-<li> 2025.04: Our paper about explainable recommendations is accepted to TOIS 2025.</li>
-<li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
-<li> 2025.02: Our paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
-<li> 2025.01: Our paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
-<li> 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.</li>
-<li> 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.</li>
-<li> 2024.11: Our paper about recommendation unlearning is accepted to TOIS 2024.</li>
-<li> 2024.11: Our one survey paper about forgetting in deep learning is accepted to TPAMI 2024.</li>
-<li> 2024.09: Our paper about continual learning is accepted to TPAMI 2024.</li>
-<li> 2024.05: Our paper about model merging is accepted to ICML 2024.</li>
-<li> 2024.01: Our paper about model merging is accepted to ICLR 2024.</li>
-<li> 2023.10: Our paper about sequential recommendation is accepted to TKDE 2023.</li>
-<li> 2023.09: Our paper about dataset condensation is accepted to NeurIPS 2023.</li>
-<li> 2023.07: Our paper about flatness-aware continual learning is accepted to ICCV 2023.</li>
+<li>2026.05: Several of our papers have been accepted by ICML 2026.</li>
+<li>2026.05: Our survey paper on data augmentation has been accepted by TKDE 2026.</li>
+<li>2026.04: Our paper on POI recommendation has been accepted by SIGIR 2026.</li>
+<li>2026.02: Our paper on sequential recommendation has been accepted by TPAMI 2026.</li>
+<li>2026.01: Two of our papers on model merging have been accepted by ICLR 2026.</li>
+<li>2025.12: Our survey on model merging has been accepted by ACM Computing Surveys (CSUR) 2026.</li>
+<li>2025.11: Our paper on model merging benchmark has been accepted by JMLR 2025.</li>
+<li>2025.11: Our paper on long-sequence recommendation has been accepted by AAAI 2026.</li>
+<li>2025.10: Our paper on model merging has been accepted by TPAMI 2025.</li>
+<li>2025.09: Two of our papers on continual model merging have been accepted by NeurIPS 2025.</li>
+<li>2025.05: Our paper on knowledge editing has been accepted by ACL (Main) 2025.</li>
+<li>2025.05: Our paper on model merging has been accepted by ICML 2025.</li>
+<li>2025.04: Our paper on explainable recommendation has been accepted by TOIS 2025.</li>
+<li>2025.04: Two of our papers on sequential recommendation have been accepted by SIGIR 2025.</li>
+<li>2025.02: Our paper on out-of-distribution recommendation has been accepted by TOIS 2025.</li>
+<li>2025.01: Our paper on flatness-aware continual learning has been accepted by TPAMI 2025.</li>
+<li>2025.01: Two of our papers on out-of-distribution recommendation have been accepted by WWW 2025.</li>
+<li>2024.12: Two of our papers on LLM fine-tuning and sequential recommendation have been accepted by AAAI 2025.</li>
+<li>2024.11: Our paper on recommendation unlearning has been accepted by TOIS 2024.</li>
+<li>2024.11: Our survey on forgetting in deep learning has been accepted by TPAMI 2024.</li>
+<li>2024.09: Our paper on continual learning has been accepted by TPAMI 2024.</li>
+<li>2024.05: Our paper on model merging has been accepted by ICML 2024.</li>
+<li>2024.01: Our paper on model merging has been accepted by ICLR 2024.</li>
+<li>2023.10: Our paper on sequential recommendation has been accepted by TKDE 2023.</li>
+<li>2023.09: Our paper on dataset condensation has been accepted by NeurIPS 2023.</li>
+<li>2023.07: Our paper on flatness-aware continual learning has been accepted by ICCV 2023.</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
 
@@ -116,14 +118,14 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ACM Computing Surveys 2026` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
 
+- [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/pdf/2409.13545) \
+  `TKDE 2026` | [**Repository**](https://github.com/KingGugu/DA-CL-4Rec)  \
+  Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
+<!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
+
 - [FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion](https://arxiv.org/pdf/2406.03280) \
   `JMLR 2025` | [**Code**](https://github.com/tanganke/fusion_bench) \
   Anke Tang, Li Shen, Yong Luo, **Enneng Yang**, Han Hu, Lefei Zhang, Bo Du, Dacheng Tao.
-
-- [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/pdf/2409.13545) \
-  `Arxiv 2024` | [**Repository**](https://github.com/KingGugu/DA-CL-4Rec)  \
-  Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
-<!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
 
 - [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218) \
   `TPAMI 2024` | [**Repository**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
@@ -134,7 +136,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- (<font color="red">Oral</font>) -->
 
 ## Conference Papers
-
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
   `ICLR 2026`| [**Code**](https://github.com/Yangqun123456/MergOPT)  \
