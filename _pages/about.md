@@ -143,10 +143,22 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 - [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](https://openreview.net/forum?id=TOJtbehWQ1)\
   `ICML 2026`| [**Code**](https://github.com/pengzj1/SCNS)  \
-  Zijie Peng$^{\ast}$, Enneng Yang$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen
+  Zijie Peng$^{\ast}$, Enneng Yang$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen.
   
 
 <!--
+- [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](https://openreview.net/forum?id=b7P2WegaBY)\
+  `ICML 2026`| [**Code**](https://github.com/Zhenggd943/PAPO)  \
+  Guodong Zheng, **Enneng Yang**, Xiaoyan Wang, Yihan Chen, Feihong He, Quan Zheng, Peng Wang, Li Shen.
+
+- [Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](https://openreview.net/forum?id=M5hGwjZCs0)\
+  `ICML 2026`| [**Code**](https://github.com/fabfish/bilevel-moe-upcycle)  \
+  Zhiyuan Yu, **Enneng Yang**, Hao Jiang, Guojie Zhu, Feihong He, Peng Wang, Li Shen.
+
+- [Merge to Remember: Sharpness-Aware Isotropic Merging for Continual Learning](https://openreview.net/forum?id=aWfk16EvfM)\
+  `ICML 2026`| [**Code**](https://github.com/Yangqun123456/SAIM)  \
+  Qun Yang, **Enneng Yang**, Wei Chen, Li Shen, Long Lan.
+
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
