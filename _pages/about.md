@@ -143,7 +143,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 - [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](https://openreview.net/forum?id=TOJtbehWQ1)\
   `ICML 2026`| [**Code**](https://github.com/pengzj1/SCNS)  \
-  Zijie Peng$^{\ast}$, Enneng Yang$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen.
+  Zijie Peng$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen.
   
 
 <!--
