@@ -135,20 +135,26 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- [**Paper**]() [**Code**]()  -->
 <!-- (<font color="red">Oral</font>) -->
 
-## Conference Papers
+## Conference 
 
 - [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](https://arxiv.org/pdf/2602.02150)\
   `ICML 2026`| [**Code**](https://github.com/user683/ECHO)  \
   Chu Zhao$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yuting Liu, Jianzhe Zhao, Guibing Guo.
+  
+- [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](https://openreview.net/forum?id=TOJtbehWQ1)\
+  `ICML 2026`| [**Code**](https://github.com/pengzj1/SCNS)  \
+  Zijie Peng$^{\ast}$, Enneng Yang$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen
+  
 
-
+<!--
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
 
 - [Automatic Pruning Discovery for Large Language Models](https://arxiv.org/pdf/2511.15390v2)\
  `ICML 2026`| [**Code**](https://github.com/yohbii/AutoPrune)  \
-  Haidong Kang, Lihong Lin, **Enneng Yang**, Hong-Ning Dai, Hao Wang
+  Haidong Kang, Lihong Lin, **Enneng Yang**, Hong-Ning Dai, Hao Wang.
+-->
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
   `ICLR 2026`| [**Code**](https://github.com/Yangqun123456/MergOPT)  \
