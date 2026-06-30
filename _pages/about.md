@@ -114,6 +114,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey or Benchmark Papers
 
+<!--
+- [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](https://arxiv.org/pdf/2606.24901) \
+  `Arxiv 2026` \
+  Hao Jiang$^{\ast}$, Enneng Yang$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Guojie Zhu$^{\ast}$, Yibin Chen, Yunkun Xu, Zifu Kou, Jiayi Li, Chong Chen, Zhao Cao, Li Shen
+-->
+
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666) \
   `ACM Computing Surveys 2026` | [**Repository**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
   **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
