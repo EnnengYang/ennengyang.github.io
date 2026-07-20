@@ -274,7 +274,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - [Why is Repeated Padding Effective for Sequential Recommendation] \
-  `TKDE 2026` |  \
+  `TKDE 2026` | [**Code**](https://github.com/KingGugu/RepPad-ENS)  \
   Yizhou Dang, **Enneng Yang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang.
   
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565) \
