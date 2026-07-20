@@ -38,6 +38,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li>2026.07: Our paper on data augmentation has been accepted by TKDE 2026.</li>
 <li>2026.05: Several of our papers have been accepted by ICML 2026.</li>
 <li>2026.05: Our survey paper on data augmentation has been accepted by TKDE 2026.</li>
 <li>2026.04: Our paper on POI recommendation has been accepted by SIGIR 2026.</li>
@@ -150,9 +151,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](https://openreview.net/forum?id=TOJtbehWQ1)\
   `ICML 2026`| [**Code**](https://github.com/pengzj1/SCNS)  \
   Zijie Peng$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yifei Cheng, Hongliang Yuan, Fei Ma, Xiaochun Cao, Li Shen.
-  
 
-<!--
 - [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](https://openreview.net/forum?id=b7P2WegaBY)\
   `ICML 2026`| [**Code**](https://github.com/Zhenggd943/PAPO)  \
   Guodong Zheng, **Enneng Yang**, Xiaoyan Wang, Yihan Chen, Feihong He, Quan Zheng, Peng Wang, Li Shen.
@@ -164,7 +163,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Merge to Remember: Sharpness-Aware Isotropic Merging for Continual Learning](https://openreview.net/forum?id=aWfk16EvfM)\
   `ICML 2026`| [**Code**](https://github.com/Yangqun123456/SAIM)  \
   Qun Yang, **Enneng Yang**, Wei Chen, Li Shen, Long Lan.
-
+  
+<!--
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
@@ -273,6 +273,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- [Why is Repeated Padding Effective for Sequential Recommendation] \
+  `TKDE 2026` |  \
+  Yizhou Dang, **Enneng Yang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang.
+  
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565) \
   `TPAMI 2026` | [**Code**](https://github.com/KingGugu/TTA4SR) \
   Yizhou Dang, **Enneng Yang**, Yuting Liu, Jianzhe Zhao, Xingwei Wang, and Guibing Guo.
