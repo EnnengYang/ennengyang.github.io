@@ -164,6 +164,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICML 2026`| [**Code**](https://github.com/Yangqun123456/SAIM)  \
   Qun Yang, **Enneng Yang**, Wei Chen, Li Shen, Long Lan.
 
+<!--
 - [Automatic Pruning Discovery for Large Language Models](https://arxiv.org/pdf/2511.15390v2)\
  `ICML 2026`| [**Code**](https://github.com/yohbii/AutoPrune)  \
   Haidong Kang, Lihong Lin, **Enneng Yang**, Hong-Ning Dai, Hao Wang.
@@ -171,8 +172,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
-
-<!--
 -->
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
