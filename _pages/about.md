@@ -164,7 +164,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICML 2026`| [**Code**](https://github.com/Yangqun123456/SAIM)  \
   Qun Yang, **Enneng Yang**, Wei Chen, Li Shen, Long Lan.
   
-<!--
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
@@ -172,6 +171,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Automatic Pruning Discovery for Large Language Models](https://arxiv.org/pdf/2511.15390v2)\
  `ICML 2026`| [**Code**](https://github.com/yohbii/AutoPrune)  \
   Haidong Kang, Lihong Lin, **Enneng Yang**, Hong-Ning Dai, Hao Wang.
+  
+<!--
 -->
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
@@ -273,7 +274,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
-- [Why is Repeated Padding Effective for Sequential Recommendation] \
+- [Why is Repeated Padding Effective for Sequential Recommendation](https://www.computer.org/csdl/journal/tk/5555/01/11614908/2ihnJd2bTWM) \
   `TKDE 2026` | [**Code**](https://github.com/KingGugu/RepPad-ENS)  \
   Yizhou Dang, **Enneng Yang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang.
   
