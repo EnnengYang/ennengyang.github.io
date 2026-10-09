@@ -38,6 +38,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li>2026.09: Several of our papers have been accepted by NeurIPS 2026.</li>
 <li>2026.07: Our paper on data augmentation has been accepted by TKDE 2026.</li>
 <li>2026.05: Several of our papers have been accepted by ICML 2026.</li>
 <li>2026.05: Our survey paper on data augmentation has been accepted by TKDE 2026.</li>
@@ -143,6 +144,20 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- (<font color="red">Oral</font>) -->
 
 ## Conference 
+<!--
+  
+- [CTRL: Continual Test-Time Reinforcement Learning for Large Language Models]()\
+  `NeurIPS 2026`| [**Code**](https://anonymous.4open.science/status/CTRL-7E51)  \
+  Chu Zhao, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*).
+
+- [S²MoE: Shared-Subspace Mixture of Sparse Experts]()\
+  `NeurIPS 2026`| [**Code**]()  \
+  Feihong He, Anke Tang, **Enneng Yang**, Hao Jiang, Guojie Zhu, Gang Li, Xiaochun Cao, Li Shen.
+    
+- [No Free Alignment: Observability-Aware Alignment for Multimodal Heterogeneous Learning]()\
+  `NeurIPS 2026`| [**Code**]()  \
+  Canran Xiao, Puning Zhao, **Enneng Yang**, Xiaochun Cao, Haobo Fu, Li Shen.
+-->
 
 - [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](https://arxiv.org/pdf/2602.02150)\
   `ICML 2026`| [**Code**](https://github.com/user683/ECHO)  \
@@ -164,7 +179,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICML 2026`| [**Code**](https://github.com/Yangqun123456/SAIM)  \
   Qun Yang, **Enneng Yang**, Wei Chen, Li Shen, Long Lan.
 
-<!--
 - [Automatic Pruning Discovery for Large Language Models](https://arxiv.org/pdf/2511.15390v2)\
  `ICML 2026`| [**Code**](https://github.com/yohbii/AutoPrune)  \
   Haidong Kang, Lihong Lin, **Enneng Yang**, Hong-Ning Dai, Hao Wang.
@@ -172,7 +186,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/pdf/2603.22335)\
   `ICML 2026`| [**Code**](https://github.com/user683/CausalDPO)  \
   Chu Zhao, **Enneng Yang**, Jianzhe Zhao, Guibing Guo.
--->
 
 - [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) \
   `ICLR 2026`| [**Code**](https://github.com/Yangqun123456/MergOPT)  \
