@@ -38,6 +38,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li>2026.11: One paper on model merging has been accepted by IJCV 2026.</li>
 <li>2026.09: Several of our papers have been accepted by NeurIPS 2026.</li>
 <li>2026.07: Our paper on data augmentation has been accepted by TKDE 2026.</li>
 <li>2026.05: Several of our papers have been accepted by ICML 2026.</li>
@@ -144,21 +145,20 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 <!-- (<font color="red">Oral</font>) -->
 
 ## Conference 
-<!--
+
+
+- [No Free Alignment: Observability-Aware Alignment for Multimodal Heterogeneous Learning](https://openreview.net/forum?id=IyPJb0blHd)\
+  `NeurIPS 2026`| [**Code**](https://github.com/Xiaocanran1230/ObsAlign)  \
+  Canran Xiao, Puning Zhao, **Enneng Yang**, Xiaochun Cao, Haobo Fu, Li Shen.
   
-- [CTRL: Continual Test-Time Reinforcement Learning for Large Language Models]()\
+- [CTRL: Continual Test-Time Reinforcement Learning for Large Language Models](https://openreview.net/forum?id=MBS7pBUFkB#discussion)\
   `NeurIPS 2026`| [**Code**](https://anonymous.4open.science/status/CTRL-7E51)  \
   Chu Zhao, **Enneng Yang**$^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*).
-
-- [S²MoE: Shared-Subspace Mixture of Sparse Experts]()\
-  `NeurIPS 2026`| [**Code**]()  \
+  
+- [S2MoE: Shared-Subspace Mixture of Sparse Experts for Model Merging](https://openreview.net/forum?id=SmZteLWKCK)\
+  `NeurIPS 2026`| \
   Feihong He, Anke Tang, **Enneng Yang**, Hao Jiang, Guojie Zhu, Gang Li, Xiaochun Cao, Li Shen.
     
-- [No Free Alignment: Observability-Aware Alignment for Multimodal Heterogeneous Learning]()\
-  `NeurIPS 2026`| [**Code**]()  \
-  Canran Xiao, Puning Zhao, **Enneng Yang**, Xiaochun Cao, Haobo Fu, Li Shen.
--->
-
 - [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](https://arxiv.org/pdf/2602.02150)\
   `ICML 2026`| [**Code**](https://github.com/user683/ECHO)  \
   Chu Zhao$^{\ast}$, **Enneng Yang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Yuting Liu, Jianzhe Zhao, Guibing Guo.
@@ -286,6 +286,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- [SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery](https://arxiv.org/abs/2410.14389) \
+  `IJCV 2026` | [**Code**](https://github.com/ennengyang/surgeryv2)  \
+  **Enneng Yang**, Li Shen, Guibing Guo, Zhenyi Wang, Fei Ma, Xingwei Wang, Xiaochun Cao, Jie Zhang, and Dacheng Tao.
+  
 - [Why is Repeated Padding Effective for Sequential Recommendation](https://www.computer.org/csdl/journal/tk/5555/01/11614908/2ihnJd2bTWM) \
   `TKDE 2026` | [**Code**](https://github.com/KingGugu/RepPad-ENS)  \
   Yizhou Dang, **Enneng Yang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang.
