@@ -39,7 +39,7 @@ I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.co
 
 <ul class="projects-box" id="projects-box">
 <li>2026.11: One paper on model merging has been accepted by IJCV 2026.</li>
-<li>2026.09: Several of our papers have been accepted by NeurIPS 2026.</li>
+<li>2026.09: Three of our papers have been accepted by NeurIPS 2026.</li>
 <li>2026.07: Our paper on data augmentation has been accepted by TKDE 2026.</li>
 <li>2026.05: Several of our papers have been accepted by ICML 2026.</li>
 <li>2026.05: Our survey paper on data augmentation has been accepted by TKDE 2026.</li>
